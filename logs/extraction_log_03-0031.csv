@@ -1,0 +1,5 @@
+file,id,date,mode,tier,error,claude_error,active,balanced,pass_rate,cost,calls,retried_rows
+Raw Data\Texas RRC\03-0031\2025_10___03-0031_VALERO REFINING CO TEXAS LP.pdf,03-0031,2025-10-31,digital,1,,,10,10,1.0,0,0,0
+Raw Data\Texas RRC\03-0031\2025_11___03-0031_VALERO REFINING CO TEXAS LP.pdf,03-0031,2025-11-30,digital,1,,,10,10,1.0,0,0,0
+Raw Data\Texas RRC\03-0031\2025_12___03-0031_VALERO REFINING CO TEXAS LP.pdf,03-0031,2025-12-31,digital,1,,,10,10,1.0,0,0,0
+Raw Data\Texas RRC\03-0031\2025_9___03-0031_VALERO REFINING CO TEXAS LP.pdf,03-0031,2025-09-30,digital,1,,,10,9,0.9,0,0,0

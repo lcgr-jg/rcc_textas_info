@@ -1,0 +1,25 @@
+Code,Storage Beginning of Month,Receipts,Input,Products Manufactured,Fuel Used,Deliveries,Storage End of Month,id,date,extraction_mode,extraction_tier,balance_diff,balanced,material
+1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Propane
+2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Butane
+3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Butane-Propane
+4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Motor Gasoline
+5,0.0,7.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,7.0,False,Kerosene
+6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Home Heating Oil
+7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Diesel Fuel
+8,0.0,0.0,0.0,0.0,0.0,0.0,3.0,01-0717,2020-03-31,scanned_ocr,3,-3.0,False,Other Middle Distillates
+9,0.0,0.0,0.0,2.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,2.0,False,Aviation Gasoline
+10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Kerosene-Type Jet Fuel
+11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Naphtha-Type Jet Fuel
+12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Fuel Oils #4 For Utility Use
+13,4.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,4.0,False,"Fuel Oils #5,#6 For Utility Use"
+14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Fuel Oils #4 For Non-Utility Use
+15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,"Fuel Oils #5,#6 For Non-Utility Use"
+16,0.0,0.0,0.0,0.0,1.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,-1.0,True,Bunker C
+17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Navy Special
+18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Other Residual Fuels
+19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Petrochemical Feedstock
+20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Lubricants
+21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Special Naphthas
+22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Solvent Products
+23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Miscellaneous
+24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,01-0717,2020-03-31,scanned_ocr,3,0.0,True,Crude Oil

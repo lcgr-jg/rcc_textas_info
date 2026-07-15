@@ -1,0 +1,577 @@
+route,district,period,product_code,product-name,value,series
+refp2,Texas Gulf Coast,2020-01,EP00,Crude Oil and Petroleum Products,103536,MTTRX_R3B_1
+refp2,Texas Inland,2020-01,EP00,Crude Oil and Petroleum Products,11043,MTTRX_R3A_1
+refp2,Texas Inland,2020-02,EP00,Crude Oil and Petroleum Products,10103,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EP00,Crude Oil and Petroleum Products,95547,MTTRX_R3B_1
+refp2,Texas Inland,2020-03,EP00,Crude Oil and Petroleum Products,11940,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EP00,Crude Oil and Petroleum Products,103143,MTTRX_R3B_1
+refp2,Texas Inland,2020-04,EP00,Crude Oil and Petroleum Products,11055,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EP00,Crude Oil and Petroleum Products,87125,MTTRX_R3B_1
+refp2,Texas Inland,2020-05,EP00,Crude Oil and Petroleum Products,11320,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EP00,Crude Oil and Petroleum Products,82422,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EP00,Crude Oil and Petroleum Products,84218,MTTRX_R3B_1
+refp2,Texas Inland,2020-06,EP00,Crude Oil and Petroleum Products,12055,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EP00,Crude Oil and Petroleum Products,88552,MTTRX_R3B_1
+refp2,Texas Inland,2020-07,EP00,Crude Oil and Petroleum Products,13247,MTTRX_R3A_1
+refp2,Texas Inland,2020-08,EP00,Crude Oil and Petroleum Products,13916,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EP00,Crude Oil and Petroleum Products,86268,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EP00,Crude Oil and Petroleum Products,84704,MTTRX_R3B_1
+refp2,Texas Inland,2020-09,EP00,Crude Oil and Petroleum Products,13364,MTTRX_R3A_1
+refp2,Texas Inland,2020-10,EP00,Crude Oil and Petroleum Products,12414,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EP00,Crude Oil and Petroleum Products,85322,MTTRX_R3B_1
+refp2,Texas Inland,2020-11,EP00,Crude Oil and Petroleum Products,12473,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EP00,Crude Oil and Petroleum Products,88124,MTTRX_R3B_1
+refp2,Texas Inland,2020-12,EP00,Crude Oil and Petroleum Products,11478,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EP00,Crude Oil and Petroleum Products,94133,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EP00,Crude Oil and Petroleum Products,91178,MTTRX_R3B_1
+refp2,Texas Inland,2021-01,EP00,Crude Oil and Petroleum Products,12410,MTTRX_R3A_1
+refp2,Texas Inland,2021-02,EP00,Crude Oil and Petroleum Products,8322,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EP00,Crude Oil and Petroleum Products,45947,MTTRX_R3B_1
+refp2,Texas Inland,2021-03,EP00,Crude Oil and Petroleum Products,12313,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EP00,Crude Oil and Petroleum Products,75406,MTTRX_R3B_1
+refp2,Texas Inland,2021-04,EP00,Crude Oil and Petroleum Products,13980,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EP00,Crude Oil and Petroleum Products,95380,MTTRX_R3B_1
+refp2,Texas Inland,2021-05,EP00,Crude Oil and Petroleum Products,14465,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EP00,Crude Oil and Petroleum Products,102228,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EP00,Crude Oil and Petroleum Products,98163,MTTRX_R3B_1
+refp2,Texas Inland,2021-06,EP00,Crude Oil and Petroleum Products,12723,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EP00,Crude Oil and Petroleum Products,98310,MTTRX_R3B_1
+refp2,Texas Inland,2021-07,EP00,Crude Oil and Petroleum Products,13869,MTTRX_R3A_1
+refp2,Texas Inland,2021-08,EP00,Crude Oil and Petroleum Products,14069,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EP00,Crude Oil and Petroleum Products,100512,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EP00,Crude Oil and Petroleum Products,95580,MTTRX_R3B_1
+refp2,Texas Inland,2021-09,EP00,Crude Oil and Petroleum Products,13626,MTTRX_R3A_1
+refp2,Texas Inland,2021-10,EP00,Crude Oil and Petroleum Products,14035,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EP00,Crude Oil and Petroleum Products,93933,MTTRX_R3B_1
+refp2,Texas Inland,2021-11,EP00,Crude Oil and Petroleum Products,12554,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EP00,Crude Oil and Petroleum Products,98284,MTTRX_R3B_1
+refp2,Texas Inland,2021-12,EP00,Crude Oil and Petroleum Products,13367,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EP00,Crude Oil and Petroleum Products,100645,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EP00,Crude Oil and Petroleum Products,92334,MTTRX_R3B_1
+refp2,Texas Inland,2022-01,EP00,Crude Oil and Petroleum Products,12314,MTTRX_R3A_1
+refp2,Texas Inland,2022-02,EP00,Crude Oil and Petroleum Products,11263,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EP00,Crude Oil and Petroleum Products,82599,MTTRX_R3B_1
+refp2,Texas Inland,2022-03,EP00,Crude Oil and Petroleum Products,12729,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EP00,Crude Oil and Petroleum Products,104744,MTTRX_R3B_1
+refp2,Texas Inland,2022-04,EP00,Crude Oil and Petroleum Products,12710,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EP00,Crude Oil and Petroleum Products,105001,MTTRX_R3B_1
+refp2,Texas Inland,2022-05,EP00,Crude Oil and Petroleum Products,14294,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EP00,Crude Oil and Petroleum Products,113121,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EP00,Crude Oil and Petroleum Products,108478,MTTRX_R3B_1
+refp2,Texas Inland,2022-06,EP00,Crude Oil and Petroleum Products,14105,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EP00,Crude Oil and Petroleum Products,112592,MTTRX_R3B_1
+refp2,Texas Inland,2022-07,EP00,Crude Oil and Petroleum Products,13625,MTTRX_R3A_1
+refp2,Texas Inland,2022-08,EP00,Crude Oil and Petroleum Products,13612,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EP00,Crude Oil and Petroleum Products,108159,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EP00,Crude Oil and Petroleum Products,105925,MTTRX_R3B_1
+refp2,Texas Inland,2022-09,EP00,Crude Oil and Petroleum Products,13683,MTTRX_R3A_1
+refp2,Texas Inland,2022-10,EP00,Crude Oil and Petroleum Products,13156,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EP00,Crude Oil and Petroleum Products,99654,MTTRX_R3B_1
+refp2,Texas Inland,2022-11,EP00,Crude Oil and Petroleum Products,12427,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EP00,Crude Oil and Petroleum Products,105726,MTTRX_R3B_1
+refp2,Texas Inland,2022-12,EP00,Crude Oil and Petroleum Products,11493,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EP00,Crude Oil and Petroleum Products,95170,MTTRX_R3B_1
+refp2,Texas Inland,2023-01,EP00,Crude Oil and Petroleum Products,11159,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EP00,Crude Oil and Petroleum Products,98220,MTTRX_R3B_1
+refp2,Texas Inland,2023-02,EP00,Crude Oil and Petroleum Products,10327,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EP00,Crude Oil and Petroleum Products,88382,MTTRX_R3B_1
+refp2,Texas Inland,2023-03,EP00,Crude Oil and Petroleum Products,12417,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EP00,Crude Oil and Petroleum Products,102352,MTTRX_R3B_1
+refp2,Texas Inland,2023-04,EP00,Crude Oil and Petroleum Products,11851,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EP00,Crude Oil and Petroleum Products,103221,MTTRX_R3B_1
+refp2,Texas Inland,2023-05,EP00,Crude Oil and Petroleum Products,12270,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EP00,Crude Oil and Petroleum Products,110182,MTTRX_R3B_1
+refp2,Texas Inland,2023-06,EP00,Crude Oil and Petroleum Products,11974,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EP00,Crude Oil and Petroleum Products,106145,MTTRX_R3B_1
+refp2,Texas Inland,2023-07,EP00,Crude Oil and Petroleum Products,14010,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EP00,Crude Oil and Petroleum Products,110651,MTTRX_R3B_1
+refp2,Texas Inland,2023-08,EP00,Crude Oil and Petroleum Products,13303,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EP00,Crude Oil and Petroleum Products,106735,MTTRX_R3B_1
+refp2,Texas Inland,2023-09,EP00,Crude Oil and Petroleum Products,12554,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EP00,Crude Oil and Petroleum Products,103592,MTTRX_R3B_1
+refp2,Texas Inland,2023-10,EP00,Crude Oil and Petroleum Products,10209,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EP00,Crude Oil and Petroleum Products,101924,MTTRX_R3B_1
+refp2,Texas Inland,2023-11,EP00,Crude Oil and Petroleum Products,9834,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EP00,Crude Oil and Petroleum Products,104510,MTTRX_R3B_1
+refp2,Texas Inland,2023-12,EP00,Crude Oil and Petroleum Products,12043,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EP00,Crude Oil and Petroleum Products,113445,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EP00,Crude Oil and Petroleum Products,98643,MTTRX_R3B_1
+refp2,Texas Inland,2024-01,EP00,Crude Oil and Petroleum Products,11537,MTTRX_R3A_1
+refp2,Texas Inland,2024-02,EP00,Crude Oil and Petroleum Products,11875,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EP00,Crude Oil and Petroleum Products,83841,MTTRX_R3B_1
+refp2,Texas Inland,2024-03,EP00,Crude Oil and Petroleum Products,13068,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EP00,Crude Oil and Petroleum Products,105964,MTTRX_R3B_1
+refp2,Texas Inland,2024-04,EP00,Crude Oil and Petroleum Products,13013,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EP00,Crude Oil and Petroleum Products,103704,MTTRX_R3B_1
+refp2,Texas Inland,2024-05,EP00,Crude Oil and Petroleum Products,13537,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EP00,Crude Oil and Petroleum Products,106805,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EP00,Crude Oil and Petroleum Products,107749,MTTRX_R3B_1
+refp2,Texas Inland,2024-06,EP00,Crude Oil and Petroleum Products,14180,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EP00,Crude Oil and Petroleum Products,109005,MTTRX_R3B_1
+refp2,Texas Inland,2024-07,EP00,Crude Oil and Petroleum Products,14563,MTTRX_R3A_1
+refp2,Texas Inland,2024-08,EP00,Crude Oil and Petroleum Products,13054,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EP00,Crude Oil and Petroleum Products,110337,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EP00,Crude Oil and Petroleum Products,105132,MTTRX_R3B_1
+refp2,Texas Inland,2024-09,EP00,Crude Oil and Petroleum Products,12489,MTTRX_R3A_1
+refp2,Texas Inland,2024-10,EP00,Crude Oil and Petroleum Products,13792,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EP00,Crude Oil and Petroleum Products,108851,MTTRX_R3B_1
+refp2,Texas Inland,2024-11,EP00,Crude Oil and Petroleum Products,13409,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EP00,Crude Oil and Petroleum Products,108538,MTTRX_R3B_1
+refp2,Texas Inland,2024-12,EP00,Crude Oil and Petroleum Products,13459,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EP00,Crude Oil and Petroleum Products,114583,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EP00,Crude Oil and Petroleum Products,95227,MTTRX_R3B_1
+refp2,Texas Inland,2025-01,EP00,Crude Oil and Petroleum Products,11973,MTTRX_R3A_1
+refp2,Texas Inland,2025-02,EP00,Crude Oil and Petroleum Products,10699,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EP00,Crude Oil and Petroleum Products,84086,MTTRX_R3B_1
+refp2,Texas Inland,2025-03,EP00,Crude Oil and Petroleum Products,12993,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EP00,Crude Oil and Petroleum Products,101623,MTTRX_R3B_1
+refp2,Texas Inland,2025-04,EP00,Crude Oil and Petroleum Products,13351,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EP00,Crude Oil and Petroleum Products,102417,MTTRX_R3B_1
+refp2,Texas Inland,2025-05,EP00,Crude Oil and Petroleum Products,14664,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EP00,Crude Oil and Petroleum Products,108152,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EP00,Crude Oil and Petroleum Products,105160,MTTRX_R3B_1
+refp2,Texas Inland,2025-06,EP00,Crude Oil and Petroleum Products,13417,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EP00,Crude Oil and Petroleum Products,107479,MTTRX_R3B_1
+refp2,Texas Inland,2025-07,EP00,Crude Oil and Petroleum Products,13831,MTTRX_R3A_1
+refp2,Texas Inland,2025-08,EP00,Crude Oil and Petroleum Products,13892,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EP00,Crude Oil and Petroleum Products,104892,MTTRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EP00,Crude Oil and Petroleum Products,98539,MTTRX_R3B_1
+refp2,Texas Inland,2025-09,EP00,Crude Oil and Petroleum Products,13730,MTTRX_R3A_1
+refp2,Texas Inland,2025-10,EP00,Crude Oil and Petroleum Products,12875,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EP00,Crude Oil and Petroleum Products,93653,MTTRX_R3B_1
+refp2,Texas Inland,2025-11,EP00,Crude Oil and Petroleum Products,13176,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EP00,Crude Oil and Petroleum Products,97675,MTTRX_R3B_1
+refp2,Texas Inland,2025-12,EP00,Crude Oil and Petroleum Products,13985,MTTRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EP00,Crude Oil and Petroleum Products,104268,MTTRX_R3B_1
+refp,Texas Gulf Coast,2020-01,EP00,Crude Oil and Petroleum Products,114393,MTTRP3B1
+refp,Texas Inland,2020-01,EP00,Crude Oil and Petroleum Products,28458,MTTRP3A1
+refp,Texas Inland,2020-02,EP00,Crude Oil and Petroleum Products,27317,MTTRP3A1
+refp,Texas Gulf Coast,2020-02,EP00,Crude Oil and Petroleum Products,107134,MTTRP3B1
+refp,Texas Inland,2020-03,EP00,Crude Oil and Petroleum Products,28071,MTTRP3A1
+refp,Texas Gulf Coast,2020-03,EP00,Crude Oil and Petroleum Products,113593,MTTRP3B1
+refp,Texas Inland,2020-04,EP00,Crude Oil and Petroleum Products,22332,MTTRP3A1
+refp,Texas Gulf Coast,2020-04,EP00,Crude Oil and Petroleum Products,94776,MTTRP3B1
+refp,Texas Inland,2020-05,EP00,Crude Oil and Petroleum Products,26066,MTTRP3A1
+refp,Texas Gulf Coast,2020-05,EP00,Crude Oil and Petroleum Products,89953,MTTRP3B1
+refp,Texas Gulf Coast,2020-06,EP00,Crude Oil and Petroleum Products,92343,MTTRP3B1
+refp,Texas Inland,2020-06,EP00,Crude Oil and Petroleum Products,28027,MTTRP3A1
+refp,Texas Gulf Coast,2020-07,EP00,Crude Oil and Petroleum Products,98360,MTTRP3B1
+refp,Texas Inland,2020-07,EP00,Crude Oil and Petroleum Products,29641,MTTRP3A1
+refp,Texas Inland,2020-08,EP00,Crude Oil and Petroleum Products,30842,MTTRP3A1
+refp,Texas Gulf Coast,2020-08,EP00,Crude Oil and Petroleum Products,96515,MTTRP3B1
+refp,Texas Gulf Coast,2020-09,EP00,Crude Oil and Petroleum Products,94527,MTTRP3B1
+refp,Texas Inland,2020-09,EP00,Crude Oil and Petroleum Products,29546,MTTRP3A1
+refp,Texas Inland,2020-10,EP00,Crude Oil and Petroleum Products,29196,MTTRP3A1
+refp,Texas Gulf Coast,2020-10,EP00,Crude Oil and Petroleum Products,95263,MTTRP3B1
+refp,Texas Inland,2020-11,EP00,Crude Oil and Petroleum Products,28214,MTTRP3A1
+refp,Texas Gulf Coast,2020-11,EP00,Crude Oil and Petroleum Products,97201,MTTRP3B1
+refp,Texas Inland,2020-12,EP00,Crude Oil and Petroleum Products,27852,MTTRP3A1
+refp,Texas Gulf Coast,2020-12,EP00,Crude Oil and Petroleum Products,103486,MTTRP3B1
+refp,Texas Gulf Coast,2021-01,EP00,Crude Oil and Petroleum Products,100134,MTTRP3B1
+refp,Texas Inland,2021-01,EP00,Crude Oil and Petroleum Products,28154,MTTRP3A1
+refp,Texas Inland,2021-02,EP00,Crude Oil and Petroleum Products,21240,MTTRP3A1
+refp,Texas Gulf Coast,2021-02,EP00,Crude Oil and Petroleum Products,53064,MTTRP3B1
+refp,Texas Inland,2021-03,EP00,Crude Oil and Petroleum Products,30238,MTTRP3A1
+refp,Texas Gulf Coast,2021-03,EP00,Crude Oil and Petroleum Products,84928,MTTRP3B1
+refp,Texas Inland,2021-04,EP00,Crude Oil and Petroleum Products,31649,MTTRP3A1
+refp,Texas Gulf Coast,2021-04,EP00,Crude Oil and Petroleum Products,105180,MTTRP3B1
+refp,Texas Inland,2021-05,EP00,Crude Oil and Petroleum Products,32386,MTTRP3A1
+refp,Texas Gulf Coast,2021-05,EP00,Crude Oil and Petroleum Products,113076,MTTRP3B1
+refp,Texas Gulf Coast,2021-06,EP00,Crude Oil and Petroleum Products,108725,MTTRP3B1
+refp,Texas Inland,2021-06,EP00,Crude Oil and Petroleum Products,30671,MTTRP3A1
+refp,Texas Gulf Coast,2021-07,EP00,Crude Oil and Petroleum Products,109229,MTTRP3B1
+refp,Texas Inland,2021-07,EP00,Crude Oil and Petroleum Products,32233,MTTRP3A1
+refp,Texas Inland,2021-08,EP00,Crude Oil and Petroleum Products,32460,MTTRP3A1
+refp,Texas Gulf Coast,2021-08,EP00,Crude Oil and Petroleum Products,111586,MTTRP3B1
+refp,Texas Gulf Coast,2021-09,EP00,Crude Oil and Petroleum Products,105448,MTTRP3B1
+refp,Texas Inland,2021-09,EP00,Crude Oil and Petroleum Products,31793,MTTRP3A1
+refp,Texas Inland,2021-10,EP00,Crude Oil and Petroleum Products,32835,MTTRP3A1
+refp,Texas Gulf Coast,2021-10,EP00,Crude Oil and Petroleum Products,105019,MTTRP3B1
+refp,Texas Inland,2021-11,EP00,Crude Oil and Petroleum Products,31087,MTTRP3A1
+refp,Texas Gulf Coast,2021-11,EP00,Crude Oil and Petroleum Products,109314,MTTRP3B1
+refp,Texas Inland,2021-12,EP00,Crude Oil and Petroleum Products,31741,MTTRP3A1
+refp,Texas Gulf Coast,2021-12,EP00,Crude Oil and Petroleum Products,113381,MTTRP3B1
+refp,Texas Gulf Coast,2022-01,EP00,Crude Oil and Petroleum Products,102230,MTTRP3B1
+refp,Texas Inland,2022-01,EP00,Crude Oil and Petroleum Products,29063,MTTRP3A1
+refp,Texas Inland,2022-02,EP00,Crude Oil and Petroleum Products,26799,MTTRP3A1
+refp,Texas Gulf Coast,2022-02,EP00,Crude Oil and Petroleum Products,92285,MTTRP3B1
+refp,Texas Inland,2022-03,EP00,Crude Oil and Petroleum Products,31170,MTTRP3A1
+refp,Texas Gulf Coast,2022-03,EP00,Crude Oil and Petroleum Products,116459,MTTRP3B1
+refp,Texas Inland,2022-04,EP00,Crude Oil and Petroleum Products,30909,MTTRP3A1
+refp,Texas Gulf Coast,2022-04,EP00,Crude Oil and Petroleum Products,116169,MTTRP3B1
+refp,Texas Inland,2022-05,EP00,Crude Oil and Petroleum Products,33455,MTTRP3A1
+refp,Texas Gulf Coast,2022-05,EP00,Crude Oil and Petroleum Products,125663,MTTRP3B1
+refp,Texas Gulf Coast,2022-06,EP00,Crude Oil and Petroleum Products,118593,MTTRP3B1
+refp,Texas Inland,2022-06,EP00,Crude Oil and Petroleum Products,31839,MTTRP3A1
+refp,Texas Gulf Coast,2022-07,EP00,Crude Oil and Petroleum Products,123047,MTTRP3B1
+refp,Texas Inland,2022-07,EP00,Crude Oil and Petroleum Products,31451,MTTRP3A1
+refp,Texas Inland,2022-08,EP00,Crude Oil and Petroleum Products,31971,MTTRP3A1
+refp,Texas Gulf Coast,2022-08,EP00,Crude Oil and Petroleum Products,119395,MTTRP3B1
+refp,Texas Gulf Coast,2022-09,EP00,Crude Oil and Petroleum Products,116525,MTTRP3B1
+refp,Texas Inland,2022-09,EP00,Crude Oil and Petroleum Products,31664,MTTRP3A1
+refp,Texas Inland,2022-10,EP00,Crude Oil and Petroleum Products,31896,MTTRP3A1
+refp,Texas Gulf Coast,2022-10,EP00,Crude Oil and Petroleum Products,110600,MTTRP3B1
+refp,Texas Inland,2022-11,EP00,Crude Oil and Petroleum Products,30597,MTTRP3A1
+refp,Texas Gulf Coast,2022-11,EP00,Crude Oil and Petroleum Products,117343,MTTRP3B1
+refp,Texas Inland,2022-12,EP00,Crude Oil and Petroleum Products,29866,MTTRP3A1
+refp,Texas Gulf Coast,2022-12,EP00,Crude Oil and Petroleum Products,105793,MTTRP3B1
+refp,Texas Inland,2023-01,EP00,Crude Oil and Petroleum Products,29002,MTTRP3A1
+refp,Texas Gulf Coast,2023-01,EP00,Crude Oil and Petroleum Products,108455,MTTRP3B1
+refp,Texas Inland,2023-02,EP00,Crude Oil and Petroleum Products,27317,MTTRP3A1
+refp,Texas Gulf Coast,2023-02,EP00,Crude Oil and Petroleum Products,98309,MTTRP3B1
+refp,Texas Inland,2023-03,EP00,Crude Oil and Petroleum Products,31857,MTTRP3A1
+refp,Texas Gulf Coast,2023-03,EP00,Crude Oil and Petroleum Products,114017,MTTRP3B1
+refp,Texas Inland,2023-04,EP00,Crude Oil and Petroleum Products,30854,MTTRP3A1
+refp,Texas Gulf Coast,2023-04,EP00,Crude Oil and Petroleum Products,114240,MTTRP3B1
+refp,Texas Inland,2023-05,EP00,Crude Oil and Petroleum Products,31549,MTTRP3A1
+refp,Texas Gulf Coast,2023-05,EP00,Crude Oil and Petroleum Products,122093,MTTRP3B1
+refp,Texas Inland,2023-06,EP00,Crude Oil and Petroleum Products,30324,MTTRP3A1
+refp,Texas Gulf Coast,2023-06,EP00,Crude Oil and Petroleum Products,117833,MTTRP3B1
+refp,Texas Inland,2023-07,EP00,Crude Oil and Petroleum Products,33055,MTTRP3A1
+refp,Texas Gulf Coast,2023-07,EP00,Crude Oil and Petroleum Products,122184,MTTRP3B1
+refp,Texas Inland,2023-08,EP00,Crude Oil and Petroleum Products,32987,MTTRP3A1
+refp,Texas Gulf Coast,2023-08,EP00,Crude Oil and Petroleum Products,118142,MTTRP3B1
+refp,Texas Inland,2023-09,EP00,Crude Oil and Petroleum Products,31229,MTTRP3A1
+refp,Texas Gulf Coast,2023-09,EP00,Crude Oil and Petroleum Products,115486,MTTRP3B1
+refp,Texas Inland,2023-10,EP00,Crude Oil and Petroleum Products,29795,MTTRP3A1
+refp,Texas Gulf Coast,2023-10,EP00,Crude Oil and Petroleum Products,113323,MTTRP3B1
+refp,Texas Inland,2023-11,EP00,Crude Oil and Petroleum Products,28473,MTTRP3A1
+refp,Texas Gulf Coast,2023-11,EP00,Crude Oil and Petroleum Products,115354,MTTRP3B1
+refp,Texas Inland,2023-12,EP00,Crude Oil and Petroleum Products,30182,MTTRP3A1
+refp,Texas Gulf Coast,2023-12,EP00,Crude Oil and Petroleum Products,125537,MTTRP3B1
+refp,Texas Gulf Coast,2024-01,EP00,Crude Oil and Petroleum Products,109314,MTTRP3B1
+refp,Texas Inland,2024-01,EP00,Crude Oil and Petroleum Products,29258,MTTRP3A1
+refp,Texas Inland,2024-02,EP00,Crude Oil and Petroleum Products,29594,MTTRP3A1
+refp,Texas Gulf Coast,2024-02,EP00,Crude Oil and Petroleum Products,95367,MTTRP3B1
+refp,Texas Inland,2024-03,EP00,Crude Oil and Petroleum Products,32601,MTTRP3A1
+refp,Texas Gulf Coast,2024-03,EP00,Crude Oil and Petroleum Products,117353,MTTRP3B1
+refp,Texas Inland,2024-04,EP00,Crude Oil and Petroleum Products,31837,MTTRP3A1
+refp,Texas Gulf Coast,2024-04,EP00,Crude Oil and Petroleum Products,114952,MTTRP3B1
+refp,Texas Inland,2024-05,EP00,Crude Oil and Petroleum Products,33162,MTTRP3A1
+refp,Texas Gulf Coast,2024-05,EP00,Crude Oil and Petroleum Products,117768,MTTRP3B1
+refp,Texas Gulf Coast,2024-06,EP00,Crude Oil and Petroleum Products,117676,MTTRP3B1
+refp,Texas Inland,2024-06,EP00,Crude Oil and Petroleum Products,32965,MTTRP3A1
+refp,Texas Gulf Coast,2024-07,EP00,Crude Oil and Petroleum Products,119456,MTTRP3B1
+refp,Texas Inland,2024-07,EP00,Crude Oil and Petroleum Products,33565,MTTRP3A1
+refp,Texas Inland,2024-08,EP00,Crude Oil and Petroleum Products,32624,MTTRP3A1
+refp,Texas Gulf Coast,2024-08,EP00,Crude Oil and Petroleum Products,121921,MTTRP3B1
+refp,Texas Gulf Coast,2024-09,EP00,Crude Oil and Petroleum Products,117259,MTTRP3B1
+refp,Texas Inland,2024-09,EP00,Crude Oil and Petroleum Products,30774,MTTRP3A1
+refp,Texas Inland,2024-10,EP00,Crude Oil and Petroleum Products,33584,MTTRP3A1
+refp,Texas Gulf Coast,2024-10,EP00,Crude Oil and Petroleum Products,120957,MTTRP3B1
+refp,Texas Inland,2024-11,EP00,Crude Oil and Petroleum Products,32015,MTTRP3A1
+refp,Texas Gulf Coast,2024-11,EP00,Crude Oil and Petroleum Products,120422,MTTRP3B1
+refp,Texas Inland,2024-12,EP00,Crude Oil and Petroleum Products,32312,MTTRP3A1
+refp,Texas Gulf Coast,2024-12,EP00,Crude Oil and Petroleum Products,125594,MTTRP3B1
+refp,Texas Gulf Coast,2025-01,EP00,Crude Oil and Petroleum Products,105044,MTTRP3B1
+refp,Texas Inland,2025-01,EP00,Crude Oil and Petroleum Products,29829,MTTRP3A1
+refp,Texas Inland,2025-02,EP00,Crude Oil and Petroleum Products,27915,MTTRP3A1
+refp,Texas Gulf Coast,2025-02,EP00,Crude Oil and Petroleum Products,94614,MTTRP3B1
+refp,Texas Inland,2025-03,EP00,Crude Oil and Petroleum Products,32640,MTTRP3A1
+refp,Texas Gulf Coast,2025-03,EP00,Crude Oil and Petroleum Products,112693,MTTRP3B1
+refp,Texas Inland,2025-04,EP00,Crude Oil and Petroleum Products,32383,MTTRP3A1
+refp,Texas Gulf Coast,2025-04,EP00,Crude Oil and Petroleum Products,112888,MTTRP3B1
+refp,Texas Inland,2025-05,EP00,Crude Oil and Petroleum Products,34387,MTTRP3A1
+refp,Texas Gulf Coast,2025-05,EP00,Crude Oil and Petroleum Products,119531,MTTRP3B1
+refp,Texas Gulf Coast,2025-06,EP00,Crude Oil and Petroleum Products,115540,MTTRP3B1
+refp,Texas Inland,2025-06,EP00,Crude Oil and Petroleum Products,32215,MTTRP3A1
+refp,Texas Gulf Coast,2025-07,EP00,Crude Oil and Petroleum Products,117993,MTTRP3B1
+refp,Texas Inland,2025-07,EP00,Crude Oil and Petroleum Products,33024,MTTRP3A1
+refp,Texas Inland,2025-08,EP00,Crude Oil and Petroleum Products,33635,MTTRP3A1
+refp,Texas Gulf Coast,2025-08,EP00,Crude Oil and Petroleum Products,115734,MTTRP3B1
+refp,Texas Gulf Coast,2025-09,EP00,Crude Oil and Petroleum Products,109146,MTTRP3B1
+refp,Texas Inland,2025-09,EP00,Crude Oil and Petroleum Products,32515,MTTRP3A1
+refp,Texas Inland,2025-10,EP00,Crude Oil and Petroleum Products,32572,MTTRP3A1
+refp,Texas Gulf Coast,2025-10,EP00,Crude Oil and Petroleum Products,104178,MTTRP3B1
+refp,Texas Inland,2025-11,EP00,Crude Oil and Petroleum Products,31727,MTTRP3A1
+refp,Texas Gulf Coast,2025-11,EP00,Crude Oil and Petroleum Products,108245,MTTRP3B1
+refp,Texas Inland,2025-12,EP00,Crude Oil and Petroleum Products,33015,MTTRP3A1
+refp,Texas Gulf Coast,2025-12,EP00,Crude Oil and Petroleum Products,114673,MTTRP3B1
+inpt2,Texas Inland,2020-01,EPC0,Crude Oil,17171,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-01,EPC0,Crude Oil,141541,MCRRO_R3B_1
+inpt2,Texas Inland,2020-02,EPC0,Crude Oil,15699,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-02,EPC0,Crude Oil,130498,MCRRO_R3B_1
+inpt2,Texas Inland,2020-03,EPC0,Crude Oil,18615,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-03,EPC0,Crude Oil,137803,MCRRO_R3B_1
+inpt2,Texas Inland,2020-04,EPC0,Crude Oil,16092,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-04,EPC0,Crude Oil,115129,MCRRO_R3B_1
+inpt2,Texas Inland,2020-05,EPC0,Crude Oil,17127,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-05,EPC0,Crude Oil,113235,MCRRO_R3B_1
+inpt2,Texas Inland,2020-06,EPC0,Crude Oil,18792,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-06,EPC0,Crude Oil,115971,MCRRO_R3B_1
+inpt2,Texas Inland,2020-07,EPC0,Crude Oil,20794,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-07,EPC0,Crude Oil,122570,MCRRO_R3B_1
+inpt2,Texas Inland,2020-08,EPC0,Crude Oil,21121,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-08,EPC0,Crude Oil,115978,MCRRO_R3B_1
+inpt2,Texas Inland,2020-09,EPC0,Crude Oil,20568,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-09,EPC0,Crude Oil,116484,MCRRO_R3B_1
+inpt2,Texas Inland,2020-10,EPC0,Crude Oil,19590,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-10,EPC0,Crude Oil,123325,MCRRO_R3B_1
+inpt2,Texas Inland,2020-11,EPC0,Crude Oil,19871,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-11,EPC0,Crude Oil,123877,MCRRO_R3B_1
+inpt2,Texas Inland,2020-12,EPC0,Crude Oil,17907,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2020-12,EPC0,Crude Oil,131459,MCRRO_R3B_1
+inpt2,Texas Inland,2021-01,EPC0,Crude Oil,20106,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-01,EPC0,Crude Oil,130969,MCRRO_R3B_1
+inpt2,Texas Inland,2021-02,EPC0,Crude Oil,13622,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-02,EPC0,Crude Oil,69027,MCRRO_R3B_1
+inpt2,Texas Inland,2021-03,EPC0,Crude Oil,18208,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-03,EPC0,Crude Oil,113650,MCRRO_R3B_1
+inpt2,Texas Inland,2021-04,EPC0,Crude Oil,21352,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-04,EPC0,Crude Oil,131412,MCRRO_R3B_1
+inpt2,Texas Inland,2021-05,EPC0,Crude Oil,22002,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-05,EPC0,Crude Oil,137558,MCRRO_R3B_1
+inpt2,Texas Inland,2021-06,EPC0,Crude Oil,18800,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-06,EPC0,Crude Oil,135282,MCRRO_R3B_1
+inpt2,Texas Inland,2021-07,EPC0,Crude Oil,21140,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-07,EPC0,Crude Oil,135747,MCRRO_R3B_1
+inpt2,Texas Inland,2021-08,EPC0,Crude Oil,21655,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-08,EPC0,Crude Oil,138988,MCRRO_R3B_1
+inpt2,Texas Inland,2021-09,EPC0,Crude Oil,20806,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-09,EPC0,Crude Oil,134365,MCRRO_R3B_1
+inpt2,Texas Inland,2021-10,EPC0,Crude Oil,21776,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-10,EPC0,Crude Oil,137042,MCRRO_R3B_1
+inpt2,Texas Inland,2021-11,EPC0,Crude Oil,19990,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-11,EPC0,Crude Oil,142532,MCRRO_R3B_1
+inpt2,Texas Inland,2021-12,EPC0,Crude Oil,21179,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2021-12,EPC0,Crude Oil,143592,MCRRO_R3B_1
+inpt2,Texas Inland,2022-01,EPC0,Crude Oil,20259,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-01,EPC0,Crude Oil,132990,MCRRO_R3B_1
+inpt2,Texas Inland,2022-02,EPC0,Crude Oil,18100,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-02,EPC0,Crude Oil,120156,MCRRO_R3B_1
+inpt2,Texas Inland,2022-03,EPC0,Crude Oil,18675,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-03,EPC0,Crude Oil,147025,MCRRO_R3B_1
+inpt2,Texas Inland,2022-04,EPC0,Crude Oil,19687,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-04,EPC0,Crude Oil,143544,MCRRO_R3B_1
+inpt2,Texas Inland,2022-05,EPC0,Crude Oil,20822,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-05,EPC0,Crude Oil,151395,MCRRO_R3B_1
+inpt2,Texas Inland,2022-06,EPC0,Crude Oil,21576,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-06,EPC0,Crude Oil,146872,MCRRO_R3B_1
+inpt2,Texas Inland,2022-07,EPC0,Crude Oil,20434,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-07,EPC0,Crude Oil,150711,MCRRO_R3B_1
+inpt2,Texas Inland,2022-08,EPC0,Crude Oil,20676,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-08,EPC0,Crude Oil,148931,MCRRO_R3B_1
+inpt2,Texas Inland,2022-09,EPC0,Crude Oil,21297,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-09,EPC0,Crude Oil,143751,MCRRO_R3B_1
+inpt2,Texas Inland,2022-10,EPC0,Crude Oil,20138,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-10,EPC0,Crude Oil,141640,MCRRO_R3B_1
+inpt2,Texas Inland,2022-11,EPC0,Crude Oil,20274,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-11,EPC0,Crude Oil,143043,MCRRO_R3B_1
+inpt2,Texas Inland,2022-12,EPC0,Crude Oil,19142,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2022-12,EPC0,Crude Oil,130360,MCRRO_R3B_1
+inpt2,Texas Inland,2023-01,EPC0,Crude Oil,18620,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-01,EPC0,Crude Oil,134160,MCRRO_R3B_1
+inpt2,Texas Inland,2023-02,EPC0,Crude Oil,16927,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-02,EPC0,Crude Oil,120937,MCRRO_R3B_1
+inpt2,Texas Inland,2023-03,EPC0,Crude Oil,19911,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-03,EPC0,Crude Oil,138190,MCRRO_R3B_1
+inpt2,Texas Inland,2023-04,EPC0,Crude Oil,18874,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-04,EPC0,Crude Oil,142877,MCRRO_R3B_1
+inpt2,Texas Inland,2023-05,EPC0,Crude Oil,18654,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-05,EPC0,Crude Oil,152816,MCRRO_R3B_1
+inpt2,Texas Inland,2023-06,EPC0,Crude Oil,17481,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-06,EPC0,Crude Oil,148091,MCRRO_R3B_1
+inpt2,Texas Inland,2023-07,EPC0,Crude Oil,21453,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-07,EPC0,Crude Oil,153514,MCRRO_R3B_1
+inpt2,Texas Inland,2023-08,EPC0,Crude Oil,19885,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-08,EPC0,Crude Oil,151038,MCRRO_R3B_1
+inpt2,Texas Inland,2023-09,EPC0,Crude Oil,18701,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-09,EPC0,Crude Oil,144750,MCRRO_R3B_1
+inpt2,Texas Inland,2023-10,EPC0,Crude Oil,15708,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-10,EPC0,Crude Oil,144709,MCRRO_R3B_1
+inpt2,Texas Inland,2023-11,EPC0,Crude Oil,16011,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-11,EPC0,Crude Oil,146326,MCRRO_R3B_1
+inpt2,Texas Inland,2023-12,EPC0,Crude Oil,19844,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2023-12,EPC0,Crude Oil,156412,MCRRO_R3B_1
+inpt2,Texas Inland,2024-01,EPC0,Crude Oil,18812,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-01,EPC0,Crude Oil,136079,MCRRO_R3B_1
+inpt2,Texas Inland,2024-02,EPC0,Crude Oil,18293,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-02,EPC0,Crude Oil,124539,MCRRO_R3B_1
+inpt2,Texas Inland,2024-03,EPC0,Crude Oil,20257,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-03,EPC0,Crude Oil,150527,MCRRO_R3B_1
+inpt2,Texas Inland,2024-04,EPC0,Crude Oil,19489,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-04,EPC0,Crude Oil,144294,MCRRO_R3B_1
+inpt2,Texas Inland,2024-05,EPC0,Crude Oil,20441,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-05,EPC0,Crude Oil,156054,MCRRO_R3B_1
+inpt2,Texas Inland,2024-06,EPC0,Crude Oil,21718,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-06,EPC0,Crude Oil,151321,MCRRO_R3B_1
+inpt2,Texas Inland,2024-07,EPC0,Crude Oil,22528,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-07,EPC0,Crude Oil,149436,MCRRO_R3B_1
+inpt2,Texas Inland,2024-08,EPC0,Crude Oil,19049,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-08,EPC0,Crude Oil,157051,MCRRO_R3B_1
+inpt2,Texas Inland,2024-09,EPC0,Crude Oil,18811,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-09,EPC0,Crude Oil,151894,MCRRO_R3B_1
+inpt2,Texas Inland,2024-10,EPC0,Crude Oil,21300,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-10,EPC0,Crude Oil,154353,MCRRO_R3B_1
+inpt2,Texas Inland,2024-11,EPC0,Crude Oil,21507,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-11,EPC0,Crude Oil,152941,MCRRO_R3B_1
+inpt2,Texas Inland,2024-12,EPC0,Crude Oil,21933,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2024-12,EPC0,Crude Oil,160640,MCRRO_R3B_1
+inpt2,Texas Inland,2025-01,EPC0,Crude Oil,20133,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-01,EPC0,Crude Oil,134647,MCRRO_R3B_1
+inpt2,Texas Inland,2025-02,EPC0,Crude Oil,17750,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-02,EPC0,Crude Oil,120538,MCRRO_R3B_1
+inpt2,Texas Inland,2025-03,EPC0,Crude Oil,20239,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-03,EPC0,Crude Oil,151040,MCRRO_R3B_1
+inpt2,Texas Inland,2025-04,EPC0,Crude Oil,20773,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-04,EPC0,Crude Oil,153500,MCRRO_R3B_1
+inpt2,Texas Inland,2025-05,EPC0,Crude Oil,22481,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-05,EPC0,Crude Oil,159843,MCRRO_R3B_1
+inpt2,Texas Inland,2025-06,EPC0,Crude Oil,20912,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-06,EPC0,Crude Oil,152606,MCRRO_R3B_1
+inpt2,Texas Inland,2025-07,EPC0,Crude Oil,22009,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-07,EPC0,Crude Oil,153212,MCRRO_R3B_1
+inpt2,Texas Inland,2025-08,EPC0,Crude Oil,20924,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-08,EPC0,Crude Oil,154543,MCRRO_R3B_1
+inpt2,Texas Inland,2025-09,EPC0,Crude Oil,22335,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-09,EPC0,Crude Oil,146505,MCRRO_R3B_1
+inpt2,Texas Inland,2025-10,EPC0,Crude Oil,20762,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-10,EPC0,Crude Oil,138313,MCRRO_R3B_1
+inpt2,Texas Inland,2025-11,EPC0,Crude Oil,21678,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-11,EPC0,Crude Oil,145085,MCRRO_R3B_1
+inpt2,Texas Inland,2025-12,EPC0,Crude Oil,22462,MCRRO_R3A_1
+inpt2,Texas Gulf Coast,2025-12,EPC0,Crude Oil,158611,MCRRO_R3B_1
+inpt,Texas Gulf Coast,2020-01,EPC0,Crude Oil,141541,MCRRI3B1
+inpt,Texas Inland,2020-01,EPC0,Crude Oil,17171,MCRRI3A1
+inpt,Texas Inland,2020-02,EPC0,Crude Oil,15699,MCRRI3A1
+inpt,Texas Gulf Coast,2020-02,EPC0,Crude Oil,130498,MCRRI3B1
+inpt,Texas Inland,2020-03,EPC0,Crude Oil,18615,MCRRI3A1
+inpt,Texas Gulf Coast,2020-03,EPC0,Crude Oil,137803,MCRRI3B1
+inpt,Texas Inland,2020-04,EPC0,Crude Oil,16092,MCRRI3A1
+inpt,Texas Gulf Coast,2020-04,EPC0,Crude Oil,115129,MCRRI3B1
+inpt,Texas Inland,2020-05,EPC0,Crude Oil,17127,MCRRI3A1
+inpt,Texas Gulf Coast,2020-05,EPC0,Crude Oil,113235,MCRRI3B1
+inpt,Texas Gulf Coast,2020-06,EPC0,Crude Oil,115971,MCRRI3B1
+inpt,Texas Inland,2020-06,EPC0,Crude Oil,18792,MCRRI3A1
+inpt,Texas Gulf Coast,2020-07,EPC0,Crude Oil,122570,MCRRI3B1
+inpt,Texas Inland,2020-07,EPC0,Crude Oil,20794,MCRRI3A1
+inpt,Texas Inland,2020-08,EPC0,Crude Oil,21121,MCRRI3A1
+inpt,Texas Gulf Coast,2020-08,EPC0,Crude Oil,115978,MCRRI3B1
+inpt,Texas Gulf Coast,2020-09,EPC0,Crude Oil,116484,MCRRI3B1
+inpt,Texas Inland,2020-09,EPC0,Crude Oil,20568,MCRRI3A1
+inpt,Texas Inland,2020-10,EPC0,Crude Oil,19590,MCRRI3A1
+inpt,Texas Gulf Coast,2020-10,EPC0,Crude Oil,123325,MCRRI3B1
+inpt,Texas Inland,2020-11,EPC0,Crude Oil,19871,MCRRI3A1
+inpt,Texas Gulf Coast,2020-11,EPC0,Crude Oil,123877,MCRRI3B1
+inpt,Texas Inland,2020-12,EPC0,Crude Oil,17907,MCRRI3A1
+inpt,Texas Gulf Coast,2020-12,EPC0,Crude Oil,131459,MCRRI3B1
+inpt,Texas Gulf Coast,2021-01,EPC0,Crude Oil,130969,MCRRI3B1
+inpt,Texas Inland,2021-01,EPC0,Crude Oil,20106,MCRRI3A1
+inpt,Texas Inland,2021-02,EPC0,Crude Oil,13622,MCRRI3A1
+inpt,Texas Gulf Coast,2021-02,EPC0,Crude Oil,69027,MCRRI3B1
+inpt,Texas Inland,2021-03,EPC0,Crude Oil,18208,MCRRI3A1
+inpt,Texas Gulf Coast,2021-03,EPC0,Crude Oil,113650,MCRRI3B1
+inpt,Texas Inland,2021-04,EPC0,Crude Oil,21352,MCRRI3A1
+inpt,Texas Gulf Coast,2021-04,EPC0,Crude Oil,131412,MCRRI3B1
+inpt,Texas Inland,2021-05,EPC0,Crude Oil,22002,MCRRI3A1
+inpt,Texas Gulf Coast,2021-05,EPC0,Crude Oil,137558,MCRRI3B1
+inpt,Texas Gulf Coast,2021-06,EPC0,Crude Oil,135282,MCRRI3B1
+inpt,Texas Inland,2021-06,EPC0,Crude Oil,18800,MCRRI3A1
+inpt,Texas Gulf Coast,2021-07,EPC0,Crude Oil,135747,MCRRI3B1
+inpt,Texas Inland,2021-07,EPC0,Crude Oil,21140,MCRRI3A1
+inpt,Texas Inland,2021-08,EPC0,Crude Oil,21655,MCRRI3A1
+inpt,Texas Gulf Coast,2021-08,EPC0,Crude Oil,138988,MCRRI3B1
+inpt,Texas Gulf Coast,2021-09,EPC0,Crude Oil,134365,MCRRI3B1
+inpt,Texas Inland,2021-09,EPC0,Crude Oil,20806,MCRRI3A1
+inpt,Texas Inland,2021-10,EPC0,Crude Oil,21776,MCRRI3A1
+inpt,Texas Gulf Coast,2021-10,EPC0,Crude Oil,137042,MCRRI3B1
+inpt,Texas Inland,2021-11,EPC0,Crude Oil,19990,MCRRI3A1
+inpt,Texas Gulf Coast,2021-11,EPC0,Crude Oil,142532,MCRRI3B1
+inpt,Texas Inland,2021-12,EPC0,Crude Oil,21179,MCRRI3A1
+inpt,Texas Gulf Coast,2021-12,EPC0,Crude Oil,143592,MCRRI3B1
+inpt,Texas Gulf Coast,2022-01,EPC0,Crude Oil,132990,MCRRI3B1
+inpt,Texas Inland,2022-01,EPC0,Crude Oil,20259,MCRRI3A1
+inpt,Texas Inland,2022-02,EPC0,Crude Oil,18100,MCRRI3A1
+inpt,Texas Gulf Coast,2022-02,EPC0,Crude Oil,120156,MCRRI3B1
+inpt,Texas Inland,2022-03,EPC0,Crude Oil,18675,MCRRI3A1
+inpt,Texas Gulf Coast,2022-03,EPC0,Crude Oil,147025,MCRRI3B1
+inpt,Texas Inland,2022-04,EPC0,Crude Oil,19687,MCRRI3A1
+inpt,Texas Gulf Coast,2022-04,EPC0,Crude Oil,143544,MCRRI3B1
+inpt,Texas Inland,2022-05,EPC0,Crude Oil,20822,MCRRI3A1
+inpt,Texas Gulf Coast,2022-05,EPC0,Crude Oil,151395,MCRRI3B1
+inpt,Texas Gulf Coast,2022-06,EPC0,Crude Oil,146872,MCRRI3B1
+inpt,Texas Inland,2022-06,EPC0,Crude Oil,21576,MCRRI3A1
+inpt,Texas Gulf Coast,2022-07,EPC0,Crude Oil,150711,MCRRI3B1
+inpt,Texas Inland,2022-07,EPC0,Crude Oil,20434,MCRRI3A1
+inpt,Texas Inland,2022-08,EPC0,Crude Oil,20676,MCRRI3A1
+inpt,Texas Gulf Coast,2022-08,EPC0,Crude Oil,148931,MCRRI3B1
+inpt,Texas Gulf Coast,2022-09,EPC0,Crude Oil,143751,MCRRI3B1
+inpt,Texas Inland,2022-09,EPC0,Crude Oil,21297,MCRRI3A1
+inpt,Texas Inland,2022-10,EPC0,Crude Oil,20138,MCRRI3A1
+inpt,Texas Gulf Coast,2022-10,EPC0,Crude Oil,141640,MCRRI3B1
+inpt,Texas Inland,2022-11,EPC0,Crude Oil,20274,MCRRI3A1
+inpt,Texas Gulf Coast,2022-11,EPC0,Crude Oil,143043,MCRRI3B1
+inpt,Texas Inland,2022-12,EPC0,Crude Oil,19142,MCRRI3A1
+inpt,Texas Gulf Coast,2022-12,EPC0,Crude Oil,130360,MCRRI3B1
+inpt,Texas Inland,2023-01,EPC0,Crude Oil,18620,MCRRI3A1
+inpt,Texas Gulf Coast,2023-01,EPC0,Crude Oil,134160,MCRRI3B1
+inpt,Texas Inland,2023-02,EPC0,Crude Oil,16927,MCRRI3A1
+inpt,Texas Gulf Coast,2023-02,EPC0,Crude Oil,120937,MCRRI3B1
+inpt,Texas Inland,2023-03,EPC0,Crude Oil,19911,MCRRI3A1
+inpt,Texas Gulf Coast,2023-03,EPC0,Crude Oil,138190,MCRRI3B1
+inpt,Texas Inland,2023-04,EPC0,Crude Oil,18874,MCRRI3A1
+inpt,Texas Gulf Coast,2023-04,EPC0,Crude Oil,142877,MCRRI3B1
+inpt,Texas Inland,2023-05,EPC0,Crude Oil,18654,MCRRI3A1
+inpt,Texas Gulf Coast,2023-05,EPC0,Crude Oil,152816,MCRRI3B1
+inpt,Texas Inland,2023-06,EPC0,Crude Oil,17481,MCRRI3A1
+inpt,Texas Gulf Coast,2023-06,EPC0,Crude Oil,148091,MCRRI3B1
+inpt,Texas Inland,2023-07,EPC0,Crude Oil,21453,MCRRI3A1
+inpt,Texas Gulf Coast,2023-07,EPC0,Crude Oil,153514,MCRRI3B1
+inpt,Texas Inland,2023-08,EPC0,Crude Oil,19885,MCRRI3A1
+inpt,Texas Gulf Coast,2023-08,EPC0,Crude Oil,151038,MCRRI3B1
+inpt,Texas Inland,2023-09,EPC0,Crude Oil,18701,MCRRI3A1
+inpt,Texas Gulf Coast,2023-09,EPC0,Crude Oil,144750,MCRRI3B1
+inpt,Texas Inland,2023-10,EPC0,Crude Oil,15708,MCRRI3A1
+inpt,Texas Gulf Coast,2023-10,EPC0,Crude Oil,144709,MCRRI3B1
+inpt,Texas Inland,2023-11,EPC0,Crude Oil,16011,MCRRI3A1
+inpt,Texas Gulf Coast,2023-11,EPC0,Crude Oil,146326,MCRRI3B1
+inpt,Texas Inland,2023-12,EPC0,Crude Oil,19844,MCRRI3A1
+inpt,Texas Gulf Coast,2023-12,EPC0,Crude Oil,156412,MCRRI3B1
+inpt,Texas Gulf Coast,2024-01,EPC0,Crude Oil,136079,MCRRI3B1
+inpt,Texas Inland,2024-01,EPC0,Crude Oil,18812,MCRRI3A1
+inpt,Texas Inland,2024-02,EPC0,Crude Oil,18293,MCRRI3A1
+inpt,Texas Gulf Coast,2024-02,EPC0,Crude Oil,124539,MCRRI3B1
+inpt,Texas Inland,2024-03,EPC0,Crude Oil,20257,MCRRI3A1
+inpt,Texas Gulf Coast,2024-03,EPC0,Crude Oil,150527,MCRRI3B1
+inpt,Texas Inland,2024-04,EPC0,Crude Oil,19489,MCRRI3A1
+inpt,Texas Gulf Coast,2024-04,EPC0,Crude Oil,144294,MCRRI3B1
+inpt,Texas Inland,2024-05,EPC0,Crude Oil,20441,MCRRI3A1
+inpt,Texas Gulf Coast,2024-05,EPC0,Crude Oil,156054,MCRRI3B1
+inpt,Texas Gulf Coast,2024-06,EPC0,Crude Oil,151321,MCRRI3B1
+inpt,Texas Inland,2024-06,EPC0,Crude Oil,21718,MCRRI3A1
+inpt,Texas Gulf Coast,2024-07,EPC0,Crude Oil,149436,MCRRI3B1
+inpt,Texas Inland,2024-07,EPC0,Crude Oil,22528,MCRRI3A1
+inpt,Texas Inland,2024-08,EPC0,Crude Oil,19049,MCRRI3A1
+inpt,Texas Gulf Coast,2024-08,EPC0,Crude Oil,157051,MCRRI3B1
+inpt,Texas Gulf Coast,2024-09,EPC0,Crude Oil,151894,MCRRI3B1
+inpt,Texas Inland,2024-09,EPC0,Crude Oil,18811,MCRRI3A1
+inpt,Texas Inland,2024-10,EPC0,Crude Oil,21300,MCRRI3A1
+inpt,Texas Gulf Coast,2024-10,EPC0,Crude Oil,154353,MCRRI3B1
+inpt,Texas Inland,2024-11,EPC0,Crude Oil,21507,MCRRI3A1
+inpt,Texas Gulf Coast,2024-11,EPC0,Crude Oil,152941,MCRRI3B1
+inpt,Texas Inland,2024-12,EPC0,Crude Oil,21933,MCRRI3A1
+inpt,Texas Gulf Coast,2024-12,EPC0,Crude Oil,160640,MCRRI3B1
+inpt,Texas Gulf Coast,2025-01,EPC0,Crude Oil,134647,MCRRI3B1
+inpt,Texas Inland,2025-01,EPC0,Crude Oil,20133,MCRRI3A1
+inpt,Texas Inland,2025-02,EPC0,Crude Oil,17750,MCRRI3A1
+inpt,Texas Gulf Coast,2025-02,EPC0,Crude Oil,120538,MCRRI3B1
+inpt,Texas Inland,2025-03,EPC0,Crude Oil,20239,MCRRI3A1
+inpt,Texas Gulf Coast,2025-03,EPC0,Crude Oil,151040,MCRRI3B1
+inpt,Texas Inland,2025-04,EPC0,Crude Oil,20773,MCRRI3A1
+inpt,Texas Gulf Coast,2025-04,EPC0,Crude Oil,153500,MCRRI3B1
+inpt,Texas Inland,2025-05,EPC0,Crude Oil,22481,MCRRI3A1
+inpt,Texas Gulf Coast,2025-05,EPC0,Crude Oil,159843,MCRRI3B1
+inpt,Texas Gulf Coast,2025-06,EPC0,Crude Oil,152606,MCRRI3B1
+inpt,Texas Inland,2025-06,EPC0,Crude Oil,20912,MCRRI3A1
+inpt,Texas Gulf Coast,2025-07,EPC0,Crude Oil,153212,MCRRI3B1
+inpt,Texas Inland,2025-07,EPC0,Crude Oil,22009,MCRRI3A1
+inpt,Texas Inland,2025-08,EPC0,Crude Oil,20924,MCRRI3A1
+inpt,Texas Gulf Coast,2025-08,EPC0,Crude Oil,154543,MCRRI3B1
+inpt,Texas Gulf Coast,2025-09,EPC0,Crude Oil,146505,MCRRI3B1
+inpt,Texas Inland,2025-09,EPC0,Crude Oil,22335,MCRRI3A1
+inpt,Texas Inland,2025-10,EPC0,Crude Oil,20762,MCRRI3A1
+inpt,Texas Gulf Coast,2025-10,EPC0,Crude Oil,138313,MCRRI3B1
+inpt,Texas Inland,2025-11,EPC0,Crude Oil,21678,MCRRI3A1
+inpt,Texas Gulf Coast,2025-11,EPC0,Crude Oil,145085,MCRRI3B1
+inpt,Texas Inland,2025-12,EPC0,Crude Oil,22462,MCRRI3A1
+inpt,Texas Gulf Coast,2025-12,EPC0,Crude Oil,158611,MCRRI3B1

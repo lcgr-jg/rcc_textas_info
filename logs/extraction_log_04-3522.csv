@@ -1,0 +1,4 @@
+file,id,date,mode,tier,error,claude_error,active,balanced,pass_rate,cost,calls,retried_rows
+Raw Data\Texas RRC\04-3522\2020_1___04-3522_POTAC LLC.pdf,04-3522,2020-01-31,failed,3,All failed,claude_not_called,0,0,0.0,0,0,0
+Raw Data\Texas RRC\04-3522\2020_2___04-3522_POTAC LLC.pdf,04-3522,2020-02-29,scanned_ocr,1,,,2,2,1.0,0,0,0
+Raw Data\Texas RRC\04-3522\2020_3___04-3522_POTAC LLC.pdf,04-3522,2020-03-31,scanned_ocr,2,,,4,1,0.25,0,0,0

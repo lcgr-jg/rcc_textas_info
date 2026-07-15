@@ -1,0 +1,1433 @@
+route,district,period,product_code,product-name,value,series
+refp2,Texas Gulf Coast,2020-01,EPD0,Distillate Fuel Oil,43680,MDIRX_R3B_1
+refp2,Texas Inland,2020-01,EPD0,Distillate Fuel Oil,5609,MDIRX_R3A_1
+refp2,Texas Inland,2020-02,EPD0,Distillate Fuel Oil,4919,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPD0,Distillate Fuel Oil,41914,MDIRX_R3B_1
+refp2,Texas Inland,2020-03,EPD0,Distillate Fuel Oil,5738,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPD0,Distillate Fuel Oil,46514,MDIRX_R3B_1
+refp2,Texas Inland,2020-04,EPD0,Distillate Fuel Oil,6396,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPD0,Distillate Fuel Oil,45215,MDIRX_R3B_1
+refp2,Texas Inland,2020-05,EPD0,Distillate Fuel Oil,6122,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPD0,Distillate Fuel Oil,43871,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPD0,Distillate Fuel Oil,39758,MDIRX_R3B_1
+refp2,Texas Inland,2020-06,EPD0,Distillate Fuel Oil,6057,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPD0,Distillate Fuel Oil,43603,MDIRX_R3B_1
+refp2,Texas Inland,2020-07,EPD0,Distillate Fuel Oil,6211,MDIRX_R3A_1
+refp2,Texas Inland,2020-08,EPD0,Distillate Fuel Oil,6885,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPD0,Distillate Fuel Oil,39789,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPD0,Distillate Fuel Oil,38089,MDIRX_R3B_1
+refp2,Texas Inland,2020-09,EPD0,Distillate Fuel Oil,6607,MDIRX_R3A_1
+refp2,Texas Inland,2020-10,EPD0,Distillate Fuel Oil,5866,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPD0,Distillate Fuel Oil,36815,MDIRX_R3B_1
+refp2,Texas Inland,2020-11,EPD0,Distillate Fuel Oil,6379,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPD0,Distillate Fuel Oil,37885,MDIRX_R3B_1
+refp2,Texas Inland,2020-12,EPD0,Distillate Fuel Oil,6040,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPD0,Distillate Fuel Oil,41986,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPD0,Distillate Fuel Oil,38052,MDIRX_R3B_1
+refp2,Texas Inland,2021-01,EPD0,Distillate Fuel Oil,6286,MDIRX_R3A_1
+refp2,Texas Inland,2021-02,EPD0,Distillate Fuel Oil,4016,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPD0,Distillate Fuel Oil,20637,MDIRX_R3B_1
+refp2,Texas Inland,2021-03,EPD0,Distillate Fuel Oil,6017,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPD0,Distillate Fuel Oil,33659,MDIRX_R3B_1
+refp2,Texas Inland,2021-04,EPD0,Distillate Fuel Oil,6721,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPD0,Distillate Fuel Oil,41644,MDIRX_R3B_1
+refp2,Texas Inland,2021-05,EPD0,Distillate Fuel Oil,6907,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPD0,Distillate Fuel Oil,43321,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPD0,Distillate Fuel Oil,43986,MDIRX_R3B_1
+refp2,Texas Inland,2021-06,EPD0,Distillate Fuel Oil,5758,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPD0,Distillate Fuel Oil,43875,MDIRX_R3B_1
+refp2,Texas Inland,2021-07,EPD0,Distillate Fuel Oil,6242,MDIRX_R3A_1
+refp2,Texas Inland,2021-08,EPD0,Distillate Fuel Oil,6186,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPD0,Distillate Fuel Oil,44417,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPD0,Distillate Fuel Oil,42705,MDIRX_R3B_1
+refp2,Texas Inland,2021-09,EPD0,Distillate Fuel Oil,6208,MDIRX_R3A_1
+refp2,Texas Inland,2021-10,EPD0,Distillate Fuel Oil,6914,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPD0,Distillate Fuel Oil,42919,MDIRX_R3B_1
+refp2,Texas Inland,2021-11,EPD0,Distillate Fuel Oil,6088,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPD0,Distillate Fuel Oil,44150,MDIRX_R3B_1
+refp2,Texas Inland,2021-12,EPD0,Distillate Fuel Oil,6642,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPD0,Distillate Fuel Oil,44379,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPD0,Distillate Fuel Oil,40031,MDIRX_R3B_1
+refp2,Texas Inland,2022-01,EPD0,Distillate Fuel Oil,5900,MDIRX_R3A_1
+refp2,Texas Inland,2022-02,EPD0,Distillate Fuel Oil,5322,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPD0,Distillate Fuel Oil,37946,MDIRX_R3B_1
+refp2,Texas Inland,2022-03,EPD0,Distillate Fuel Oil,5774,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPD0,Distillate Fuel Oil,49000,MDIRX_R3B_1
+refp2,Texas Inland,2022-04,EPD0,Distillate Fuel Oil,6047,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPD0,Distillate Fuel Oil,44634,MDIRX_R3B_1
+refp2,Texas Inland,2022-05,EPD0,Distillate Fuel Oil,7024,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPD0,Distillate Fuel Oil,46765,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPD0,Distillate Fuel Oil,46831,MDIRX_R3B_1
+refp2,Texas Inland,2022-06,EPD0,Distillate Fuel Oil,6909,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPD0,Distillate Fuel Oil,48001,MDIRX_R3B_1
+refp2,Texas Inland,2022-07,EPD0,Distillate Fuel Oil,6242,MDIRX_R3A_1
+refp2,Texas Inland,2022-08,EPD0,Distillate Fuel Oil,6386,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPD0,Distillate Fuel Oil,47093,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPD0,Distillate Fuel Oil,46737,MDIRX_R3B_1
+refp2,Texas Inland,2022-09,EPD0,Distillate Fuel Oil,6813,MDIRX_R3A_1
+refp2,Texas Inland,2022-10,EPD0,Distillate Fuel Oil,6642,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPD0,Distillate Fuel Oil,45759,MDIRX_R3B_1
+refp2,Texas Inland,2022-11,EPD0,Distillate Fuel Oil,6386,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPD0,Distillate Fuel Oil,47393,MDIRX_R3B_1
+refp2,Texas Inland,2022-12,EPD0,Distillate Fuel Oil,5671,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPD0,Distillate Fuel Oil,41141,MDIRX_R3B_1
+refp2,Texas Inland,2023-01,EPD0,Distillate Fuel Oil,5614,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPD0,Distillate Fuel Oil,42028,MDIRX_R3B_1
+refp2,Texas Inland,2023-02,EPD0,Distillate Fuel Oil,5280,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPD0,Distillate Fuel Oil,37992,MDIRX_R3B_1
+refp2,Texas Inland,2023-03,EPD0,Distillate Fuel Oil,5987,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPD0,Distillate Fuel Oil,41000,MDIRX_R3B_1
+refp2,Texas Inland,2023-04,EPD0,Distillate Fuel Oil,5653,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPD0,Distillate Fuel Oil,42841,MDIRX_R3B_1
+refp2,Texas Inland,2023-05,EPD0,Distillate Fuel Oil,5629,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPD0,Distillate Fuel Oil,47164,MDIRX_R3B_1
+refp2,Texas Inland,2023-06,EPD0,Distillate Fuel Oil,5162,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPD0,Distillate Fuel Oil,45874,MDIRX_R3B_1
+refp2,Texas Inland,2023-07,EPD0,Distillate Fuel Oil,6590,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPD0,Distillate Fuel Oil,46652,MDIRX_R3B_1
+refp2,Texas Inland,2023-08,EPD0,Distillate Fuel Oil,6299,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPD0,Distillate Fuel Oil,45127,MDIRX_R3B_1
+refp2,Texas Inland,2023-09,EPD0,Distillate Fuel Oil,5818,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPD0,Distillate Fuel Oil,45267,MDIRX_R3B_1
+refp2,Texas Inland,2023-10,EPD0,Distillate Fuel Oil,4481,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPD0,Distillate Fuel Oil,47389,MDIRX_R3B_1
+refp2,Texas Inland,2023-11,EPD0,Distillate Fuel Oil,4701,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPD0,Distillate Fuel Oil,47849,MDIRX_R3B_1
+refp2,Texas Inland,2023-12,EPD0,Distillate Fuel Oil,6103,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPD0,Distillate Fuel Oil,49510,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPD0,Distillate Fuel Oil,40366,MDIRX_R3B_1
+refp2,Texas Inland,2024-01,EPD0,Distillate Fuel Oil,5532,MDIRX_R3A_1
+refp2,Texas Inland,2024-02,EPD0,Distillate Fuel Oil,6001,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPD0,Distillate Fuel Oil,33580,MDIRX_R3B_1
+refp2,Texas Inland,2024-03,EPD0,Distillate Fuel Oil,6192,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPD0,Distillate Fuel Oil,45976,MDIRX_R3B_1
+refp2,Texas Inland,2024-04,EPD0,Distillate Fuel Oil,6366,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPD0,Distillate Fuel Oil,44076,MDIRX_R3B_1
+refp2,Texas Inland,2024-05,EPD0,Distillate Fuel Oil,6865,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPD0,Distillate Fuel Oil,45319,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPD0,Distillate Fuel Oil,45170,MDIRX_R3B_1
+refp2,Texas Inland,2024-06,EPD0,Distillate Fuel Oil,7056,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPD0,Distillate Fuel Oil,47740,MDIRX_R3B_1
+refp2,Texas Inland,2024-07,EPD0,Distillate Fuel Oil,7259,MDIRX_R3A_1
+refp2,Texas Inland,2024-08,EPD0,Distillate Fuel Oil,6266,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPD0,Distillate Fuel Oil,48294,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPD0,Distillate Fuel Oil,46858,MDIRX_R3B_1
+refp2,Texas Inland,2024-09,EPD0,Distillate Fuel Oil,6488,MDIRX_R3A_1
+refp2,Texas Inland,2024-10,EPD0,Distillate Fuel Oil,7094,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPD0,Distillate Fuel Oil,47419,MDIRX_R3B_1
+refp2,Texas Inland,2024-11,EPD0,Distillate Fuel Oil,7196,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPD0,Distillate Fuel Oil,47570,MDIRX_R3B_1
+refp2,Texas Inland,2024-12,EPD0,Distillate Fuel Oil,7384,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPD0,Distillate Fuel Oil,49362,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPD0,Distillate Fuel Oil,40611,MDIRX_R3B_1
+refp2,Texas Inland,2025-01,EPD0,Distillate Fuel Oil,6235,MDIRX_R3A_1
+refp2,Texas Inland,2025-02,EPD0,Distillate Fuel Oil,5540,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPD0,Distillate Fuel Oil,35356,MDIRX_R3B_1
+refp2,Texas Inland,2025-03,EPD0,Distillate Fuel Oil,6512,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPD0,Distillate Fuel Oil,42948,MDIRX_R3B_1
+refp2,Texas Inland,2025-04,EPD0,Distillate Fuel Oil,6886,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPD0,Distillate Fuel Oil,45496,MDIRX_R3B_1
+refp2,Texas Inland,2025-05,EPD0,Distillate Fuel Oil,7566,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPD0,Distillate Fuel Oil,47037,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPD0,Distillate Fuel Oil,45850,MDIRX_R3B_1
+refp2,Texas Inland,2025-06,EPD0,Distillate Fuel Oil,6586,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPD0,Distillate Fuel Oil,48005,MDIRX_R3B_1
+refp2,Texas Inland,2025-07,EPD0,Distillate Fuel Oil,6958,MDIRX_R3A_1
+refp2,Texas Inland,2025-08,EPD0,Distillate Fuel Oil,7173,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPD0,Distillate Fuel Oil,47191,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPD0,Distillate Fuel Oil,44334,MDIRX_R3B_1
+refp2,Texas Inland,2025-09,EPD0,Distillate Fuel Oil,7330,MDIRX_R3A_1
+refp2,Texas Inland,2025-10,EPD0,Distillate Fuel Oil,6753,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPD0,Distillate Fuel Oil,42493,MDIRX_R3B_1
+refp2,Texas Inland,2025-11,EPD0,Distillate Fuel Oil,6883,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPD0,Distillate Fuel Oil,44059,MDIRX_R3B_1
+refp2,Texas Inland,2025-12,EPD0,Distillate Fuel Oil,7331,MDIRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPD0,Distillate Fuel Oil,47959,MDIRX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPJK,Kerosene-Type Jet Fuel,15810,MKJRX_R3B_1
+refp2,Texas Inland,2020-01,EPJK,Kerosene-Type Jet Fuel,937,MKJRX_R3A_1
+refp2,Texas Inland,2020-02,EPJK,Kerosene-Type Jet Fuel,1016,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPJK,Kerosene-Type Jet Fuel,13652,MKJRX_R3B_1
+refp2,Texas Inland,2020-03,EPJK,Kerosene-Type Jet Fuel,1380,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPJK,Kerosene-Type Jet Fuel,11641,MKJRX_R3B_1
+refp2,Texas Inland,2020-04,EPJK,Kerosene-Type Jet Fuel,533,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPJK,Kerosene-Type Jet Fuel,5346,MKJRX_R3B_1
+refp2,Texas Inland,2020-05,EPJK,Kerosene-Type Jet Fuel,552,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPJK,Kerosene-Type Jet Fuel,3930,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPJK,Kerosene-Type Jet Fuel,6754,MKJRX_R3B_1
+refp2,Texas Inland,2020-06,EPJK,Kerosene-Type Jet Fuel,885,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPJK,Kerosene-Type Jet Fuel,6957,MKJRX_R3B_1
+refp2,Texas Inland,2020-07,EPJK,Kerosene-Type Jet Fuel,1381,MKJRX_R3A_1
+refp2,Texas Inland,2020-08,EPJK,Kerosene-Type Jet Fuel,1121,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPJK,Kerosene-Type Jet Fuel,6482,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPJK,Kerosene-Type Jet Fuel,6914,MKJRX_R3B_1
+refp2,Texas Inland,2020-09,EPJK,Kerosene-Type Jet Fuel,1108,MKJRX_R3A_1
+refp2,Texas Inland,2020-10,EPJK,Kerosene-Type Jet Fuel,1065,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPJK,Kerosene-Type Jet Fuel,8142,MKJRX_R3B_1
+refp2,Texas Inland,2020-11,EPJK,Kerosene-Type Jet Fuel,1161,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPJK,Kerosene-Type Jet Fuel,9765,MKJRX_R3B_1
+refp2,Texas Inland,2020-12,EPJK,Kerosene-Type Jet Fuel,853,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPJK,Kerosene-Type Jet Fuel,9463,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPJK,Kerosene-Type Jet Fuel,11888,MKJRX_R3B_1
+refp2,Texas Inland,2021-01,EPJK,Kerosene-Type Jet Fuel,1235,MKJRX_R3A_1
+refp2,Texas Inland,2021-02,EPJK,Kerosene-Type Jet Fuel,682,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPJK,Kerosene-Type Jet Fuel,4436,MKJRX_R3B_1
+refp2,Texas Inland,2021-03,EPJK,Kerosene-Type Jet Fuel,1209,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPJK,Kerosene-Type Jet Fuel,8304,MKJRX_R3B_1
+refp2,Texas Inland,2021-04,EPJK,Kerosene-Type Jet Fuel,1510,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPJK,Kerosene-Type Jet Fuel,9976,MKJRX_R3B_1
+refp2,Texas Inland,2021-05,EPJK,Kerosene-Type Jet Fuel,1384,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPJK,Kerosene-Type Jet Fuel,10948,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPJK,Kerosene-Type Jet Fuel,9766,MKJRX_R3B_1
+refp2,Texas Inland,2021-06,EPJK,Kerosene-Type Jet Fuel,1221,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPJK,Kerosene-Type Jet Fuel,10695,MKJRX_R3B_1
+refp2,Texas Inland,2021-07,EPJK,Kerosene-Type Jet Fuel,1441,MKJRX_R3A_1
+refp2,Texas Inland,2021-08,EPJK,Kerosene-Type Jet Fuel,1507,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPJK,Kerosene-Type Jet Fuel,10522,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPJK,Kerosene-Type Jet Fuel,10630,MKJRX_R3B_1
+refp2,Texas Inland,2021-09,EPJK,Kerosene-Type Jet Fuel,1375,MKJRX_R3A_1
+refp2,Texas Inland,2021-10,EPJK,Kerosene-Type Jet Fuel,1634,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPJK,Kerosene-Type Jet Fuel,10131,MKJRX_R3B_1
+refp2,Texas Inland,2021-11,EPJK,Kerosene-Type Jet Fuel,1366,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPJK,Kerosene-Type Jet Fuel,11642,MKJRX_R3B_1
+refp2,Texas Inland,2021-12,EPJK,Kerosene-Type Jet Fuel,1522,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPJK,Kerosene-Type Jet Fuel,11993,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPJK,Kerosene-Type Jet Fuel,12133,MKJRX_R3B_1
+refp2,Texas Inland,2022-01,EPJK,Kerosene-Type Jet Fuel,1318,MKJRX_R3A_1
+refp2,Texas Inland,2022-02,EPJK,Kerosene-Type Jet Fuel,1296,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPJK,Kerosene-Type Jet Fuel,10724,MKJRX_R3B_1
+refp2,Texas Inland,2022-03,EPJK,Kerosene-Type Jet Fuel,1460,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPJK,Kerosene-Type Jet Fuel,12064,MKJRX_R3B_1
+refp2,Texas Inland,2022-04,EPJK,Kerosene-Type Jet Fuel,1408,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPJK,Kerosene-Type Jet Fuel,14753,MKJRX_R3B_1
+refp2,Texas Inland,2022-05,EPJK,Kerosene-Type Jet Fuel,1620,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPJK,Kerosene-Type Jet Fuel,16114,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPJK,Kerosene-Type Jet Fuel,14656,MKJRX_R3B_1
+refp2,Texas Inland,2022-06,EPJK,Kerosene-Type Jet Fuel,1522,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPJK,Kerosene-Type Jet Fuel,15061,MKJRX_R3B_1
+refp2,Texas Inland,2022-07,EPJK,Kerosene-Type Jet Fuel,1441,MKJRX_R3A_1
+refp2,Texas Inland,2022-08,EPJK,Kerosene-Type Jet Fuel,1531,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPJK,Kerosene-Type Jet Fuel,14186,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPJK,Kerosene-Type Jet Fuel,14160,MKJRX_R3B_1
+refp2,Texas Inland,2022-09,EPJK,Kerosene-Type Jet Fuel,1352,MKJRX_R3A_1
+refp2,Texas Inland,2022-10,EPJK,Kerosene-Type Jet Fuel,1492,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPJK,Kerosene-Type Jet Fuel,13144,MKJRX_R3B_1
+refp2,Texas Inland,2022-11,EPJK,Kerosene-Type Jet Fuel,1558,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPJK,Kerosene-Type Jet Fuel,14452,MKJRX_R3B_1
+refp2,Texas Inland,2022-12,EPJK,Kerosene-Type Jet Fuel,1263,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPJK,Kerosene-Type Jet Fuel,12901,MKJRX_R3B_1
+refp2,Texas Inland,2023-01,EPJK,Kerosene-Type Jet Fuel,1573,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPJK,Kerosene-Type Jet Fuel,14900,MKJRX_R3B_1
+refp2,Texas Inland,2023-02,EPJK,Kerosene-Type Jet Fuel,1269,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPJK,Kerosene-Type Jet Fuel,12294,MKJRX_R3B_1
+refp2,Texas Inland,2023-03,EPJK,Kerosene-Type Jet Fuel,1481,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPJK,Kerosene-Type Jet Fuel,15073,MKJRX_R3B_1
+refp2,Texas Inland,2023-04,EPJK,Kerosene-Type Jet Fuel,1228,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPJK,Kerosene-Type Jet Fuel,14121,MKJRX_R3B_1
+refp2,Texas Inland,2023-05,EPJK,Kerosene-Type Jet Fuel,1391,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPJK,Kerosene-Type Jet Fuel,15034,MKJRX_R3B_1
+refp2,Texas Inland,2023-06,EPJK,Kerosene-Type Jet Fuel,1495,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPJK,Kerosene-Type Jet Fuel,15797,MKJRX_R3B_1
+refp2,Texas Inland,2023-07,EPJK,Kerosene-Type Jet Fuel,1580,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPJK,Kerosene-Type Jet Fuel,15779,MKJRX_R3B_1
+refp2,Texas Inland,2023-08,EPJK,Kerosene-Type Jet Fuel,1498,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPJK,Kerosene-Type Jet Fuel,16306,MKJRX_R3B_1
+refp2,Texas Inland,2023-09,EPJK,Kerosene-Type Jet Fuel,1507,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPJK,Kerosene-Type Jet Fuel,14866,MKJRX_R3B_1
+refp2,Texas Inland,2023-10,EPJK,Kerosene-Type Jet Fuel,1377,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPJK,Kerosene-Type Jet Fuel,14091,MKJRX_R3B_1
+refp2,Texas Inland,2023-11,EPJK,Kerosene-Type Jet Fuel,1167,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPJK,Kerosene-Type Jet Fuel,14742,MKJRX_R3B_1
+refp2,Texas Inland,2023-12,EPJK,Kerosene-Type Jet Fuel,1435,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPJK,Kerosene-Type Jet Fuel,16424,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPJK,Kerosene-Type Jet Fuel,14301,MKJRX_R3B_1
+refp2,Texas Inland,2024-01,EPJK,Kerosene-Type Jet Fuel,1539,MKJRX_R3A_1
+refp2,Texas Inland,2024-02,EPJK,Kerosene-Type Jet Fuel,1301,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPJK,Kerosene-Type Jet Fuel,13298,MKJRX_R3B_1
+refp2,Texas Inland,2024-03,EPJK,Kerosene-Type Jet Fuel,1700,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPJK,Kerosene-Type Jet Fuel,16079,MKJRX_R3B_1
+refp2,Texas Inland,2024-04,EPJK,Kerosene-Type Jet Fuel,1632,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPJK,Kerosene-Type Jet Fuel,15480,MKJRX_R3B_1
+refp2,Texas Inland,2024-05,EPJK,Kerosene-Type Jet Fuel,1556,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPJK,Kerosene-Type Jet Fuel,16925,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPJK,Kerosene-Type Jet Fuel,16661,MKJRX_R3B_1
+refp2,Texas Inland,2024-06,EPJK,Kerosene-Type Jet Fuel,1697,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPJK,Kerosene-Type Jet Fuel,16469,MKJRX_R3B_1
+refp2,Texas Inland,2024-07,EPJK,Kerosene-Type Jet Fuel,1680,MKJRX_R3A_1
+refp2,Texas Inland,2024-08,EPJK,Kerosene-Type Jet Fuel,1505,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPJK,Kerosene-Type Jet Fuel,16893,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPJK,Kerosene-Type Jet Fuel,16963,MKJRX_R3B_1
+refp2,Texas Inland,2024-09,EPJK,Kerosene-Type Jet Fuel,1141,MKJRX_R3A_1
+refp2,Texas Inland,2024-10,EPJK,Kerosene-Type Jet Fuel,1616,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPJK,Kerosene-Type Jet Fuel,16747,MKJRX_R3B_1
+refp2,Texas Inland,2024-11,EPJK,Kerosene-Type Jet Fuel,1542,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPJK,Kerosene-Type Jet Fuel,16294,MKJRX_R3B_1
+refp2,Texas Inland,2024-12,EPJK,Kerosene-Type Jet Fuel,1428,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPJK,Kerosene-Type Jet Fuel,17538,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPJK,Kerosene-Type Jet Fuel,13411,MKJRX_R3B_1
+refp2,Texas Inland,2025-01,EPJK,Kerosene-Type Jet Fuel,1469,MKJRX_R3A_1
+refp2,Texas Inland,2025-02,EPJK,Kerosene-Type Jet Fuel,1285,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPJK,Kerosene-Type Jet Fuel,12663,MKJRX_R3B_1
+refp2,Texas Inland,2025-03,EPJK,Kerosene-Type Jet Fuel,1415,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPJK,Kerosene-Type Jet Fuel,16740,MKJRX_R3B_1
+refp2,Texas Inland,2025-04,EPJK,Kerosene-Type Jet Fuel,1495,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPJK,Kerosene-Type Jet Fuel,17644,MKJRX_R3B_1
+refp2,Texas Inland,2025-05,EPJK,Kerosene-Type Jet Fuel,1616,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPJK,Kerosene-Type Jet Fuel,18470,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPJK,Kerosene-Type Jet Fuel,18098,MKJRX_R3B_1
+refp2,Texas Inland,2025-06,EPJK,Kerosene-Type Jet Fuel,1683,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPJK,Kerosene-Type Jet Fuel,17186,MKJRX_R3B_1
+refp2,Texas Inland,2025-07,EPJK,Kerosene-Type Jet Fuel,1630,MKJRX_R3A_1
+refp2,Texas Inland,2025-08,EPJK,Kerosene-Type Jet Fuel,1570,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPJK,Kerosene-Type Jet Fuel,16696,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPJK,Kerosene-Type Jet Fuel,16443,MKJRX_R3B_1
+refp2,Texas Inland,2025-09,EPJK,Kerosene-Type Jet Fuel,1539,MKJRX_R3A_1
+refp2,Texas Inland,2025-10,EPJK,Kerosene-Type Jet Fuel,1544,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPJK,Kerosene-Type Jet Fuel,15395,MKJRX_R3B_1
+refp2,Texas Inland,2025-11,EPJK,Kerosene-Type Jet Fuel,1728,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPJK,Kerosene-Type Jet Fuel,16752,MKJRX_R3B_1
+refp2,Texas Inland,2025-12,EPJK,Kerosene-Type Jet Fuel,1614,MKJRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPJK,Kerosene-Type Jet Fuel,18191,MKJRX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPLLBAN,Normal Butane,150,MBURX_R3B_1
+refp2,Texas Inland,2020-01,EPLLBAN,Normal Butane,-202,MBURX_R3A_1
+refp2,Texas Inland,2020-02,EPLLBAN,Normal Butane,5,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPLLBAN,Normal Butane,202,MBURX_R3B_1
+refp2,Texas Inland,2020-03,EPLLBAN,Normal Butane,52,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPLLBAN,Normal Butane,2290,MBURX_R3B_1
+refp2,Texas Inland,2020-04,EPLLBAN,Normal Butane,180,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPLLBAN,Normal Butane,2704,MBURX_R3B_1
+refp2,Texas Inland,2020-05,EPLLBAN,Normal Butane,160,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPLLBAN,Normal Butane,3246,MBURX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPLLBAN,Normal Butane,3133,MBURX_R3B_1
+refp2,Texas Inland,2020-06,EPLLBAN,Normal Butane,212,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPLLBAN,Normal Butane,3081,MBURX_R3B_1
+refp2,Texas Inland,2020-07,EPLLBAN,Normal Butane,276,MBURX_R3A_1
+refp2,Texas Inland,2020-08,EPLLBAN,Normal Butane,306,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPLLBAN,Normal Butane,2805,MBURX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPLLBAN,Normal Butane,1523,MBURX_R3B_1
+refp2,Texas Inland,2020-09,EPLLBAN,Normal Butane,188,MBURX_R3A_1
+refp2,Texas Inland,2020-10,EPLLBAN,Normal Butane,-54,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPLLBAN,Normal Butane,286,MBURX_R3B_1
+refp2,Texas Inland,2020-11,EPLLBAN,Normal Butane,-159,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPLLBAN,Normal Butane,-99,MBURX_R3B_1
+refp2,Texas Inland,2020-12,EPLLBAN,Normal Butane,-211,MBURX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPLLBAN,Normal Butane,-46,MBURX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPLLBAN,Normal Butane,54,MBURX_R3B_1
+refp2,Texas Inland,2021-01,EPLLBAN,Normal Butane,-205,MBURX_R3A_1
+refp2,Texas Inland,2021-02,EPLLBAN,Normal Butane,-24,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPLLBAN,Normal Butane,20,MBURX_R3B_1
+refp2,Texas Inland,2021-03,EPLLBAN,Normal Butane,2,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPLLBAN,Normal Butane,1372,MBURX_R3B_1
+refp2,Texas Inland,2021-04,EPLLBAN,Normal Butane,166,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPLLBAN,Normal Butane,2799,MBURX_R3B_1
+refp2,Texas Inland,2021-05,EPLLBAN,Normal Butane,352,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPLLBAN,Normal Butane,3379,MBURX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPLLBAN,Normal Butane,3323,MBURX_R3B_1
+refp2,Texas Inland,2021-06,EPLLBAN,Normal Butane,180,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPLLBAN,Normal Butane,3515,MBURX_R3B_1
+refp2,Texas Inland,2021-07,EPLLBAN,Normal Butane,353,MBURX_R3A_1
+refp2,Texas Inland,2021-08,EPLLBAN,Normal Butane,296,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPLLBAN,Normal Butane,2866,MBURX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPLLBAN,Normal Butane,1435,MBURX_R3B_1
+refp2,Texas Inland,2021-09,EPLLBAN,Normal Butane,300,MBURX_R3A_1
+refp2,Texas Inland,2021-10,EPLLBAN,Normal Butane,-42,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPLLBAN,Normal Butane,163,MBURX_R3B_1
+refp2,Texas Inland,2021-11,EPLLBAN,Normal Butane,-272,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPLLBAN,Normal Butane,-621,MBURX_R3B_1
+refp2,Texas Inland,2021-12,EPLLBAN,Normal Butane,-234,MBURX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPLLBAN,Normal Butane,-860,MBURX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPLLBAN,Normal Butane,-448,MBURX_R3B_1
+refp2,Texas Inland,2022-01,EPLLBAN,Normal Butane,-196,MBURX_R3A_1
+refp2,Texas Inland,2022-02,EPLLBAN,Normal Butane,-36,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPLLBAN,Normal Butane,-371,MBURX_R3B_1
+refp2,Texas Inland,2022-03,EPLLBAN,Normal Butane,133,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPLLBAN,Normal Butane,1800,MBURX_R3B_1
+refp2,Texas Inland,2022-04,EPLLBAN,Normal Butane,214,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPLLBAN,Normal Butane,3035,MBURX_R3B_1
+refp2,Texas Inland,2022-05,EPLLBAN,Normal Butane,247,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPLLBAN,Normal Butane,3465,MBURX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPLLBAN,Normal Butane,3433,MBURX_R3B_1
+refp2,Texas Inland,2022-06,EPLLBAN,Normal Butane,261,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPLLBAN,Normal Butane,3427,MBURX_R3B_1
+refp2,Texas Inland,2022-07,EPLLBAN,Normal Butane,292,MBURX_R3A_1
+refp2,Texas Inland,2022-08,EPLLBAN,Normal Butane,292,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPLLBAN,Normal Butane,3112,MBURX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPLLBAN,Normal Butane,1670,MBURX_R3B_1
+refp2,Texas Inland,2022-09,EPLLBAN,Normal Butane,211,MBURX_R3A_1
+refp2,Texas Inland,2022-10,EPLLBAN,Normal Butane,-131,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPLLBAN,Normal Butane,464,MBURX_R3B_1
+refp2,Texas Inland,2022-11,EPLLBAN,Normal Butane,-219,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPLLBAN,Normal Butane,88,MBURX_R3B_1
+refp2,Texas Inland,2022-12,EPLLBAN,Normal Butane,-168,MBURX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPLLBAN,Normal Butane,75,MBURX_R3B_1
+refp2,Texas Inland,2023-01,EPLLBAN,Normal Butane,-367,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPLLBAN,Normal Butane,-14,MBURX_R3B_1
+refp2,Texas Inland,2023-02,EPLLBAN,Normal Butane,-149,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPLLBAN,Normal Butane,298,MBURX_R3B_1
+refp2,Texas Inland,2023-03,EPLLBAN,Normal Butane,113,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPLLBAN,Normal Butane,1961,MBURX_R3B_1
+refp2,Texas Inland,2023-04,EPLLBAN,Normal Butane,293,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPLLBAN,Normal Butane,3165,MBURX_R3B_1
+refp2,Texas Inland,2023-05,EPLLBAN,Normal Butane,347,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPLLBAN,Normal Butane,3671,MBURX_R3B_1
+refp2,Texas Inland,2023-06,EPLLBAN,Normal Butane,382,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPLLBAN,Normal Butane,3589,MBURX_R3B_1
+refp2,Texas Inland,2023-07,EPLLBAN,Normal Butane,315,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPLLBAN,Normal Butane,3658,MBURX_R3B_1
+refp2,Texas Inland,2023-08,EPLLBAN,Normal Butane,394,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPLLBAN,Normal Butane,3696,MBURX_R3B_1
+refp2,Texas Inland,2023-09,EPLLBAN,Normal Butane,251,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPLLBAN,Normal Butane,2246,MBURX_R3B_1
+refp2,Texas Inland,2023-10,EPLLBAN,Normal Butane,-73,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPLLBAN,Normal Butane,754,MBURX_R3B_1
+refp2,Texas Inland,2023-11,EPLLBAN,Normal Butane,-220,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPLLBAN,Normal Butane,-468,MBURX_R3B_1
+refp2,Texas Inland,2023-12,EPLLBAN,Normal Butane,-366,MBURX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPLLBAN,Normal Butane,-358,MBURX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPLLBAN,Normal Butane,-29,MBURX_R3B_1
+refp2,Texas Inland,2024-01,EPLLBAN,Normal Butane,-182,MBURX_R3A_1
+refp2,Texas Inland,2024-02,EPLLBAN,Normal Butane,-100,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPLLBAN,Normal Butane,15,MBURX_R3B_1
+refp2,Texas Inland,2024-03,EPLLBAN,Normal Butane,47,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPLLBAN,Normal Butane,2552,MBURX_R3B_1
+refp2,Texas Inland,2024-04,EPLLBAN,Normal Butane,268,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPLLBAN,Normal Butane,3673,MBURX_R3B_1
+refp2,Texas Inland,2024-05,EPLLBAN,Normal Butane,378,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPLLBAN,Normal Butane,3803,MBURX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPLLBAN,Normal Butane,3780,MBURX_R3B_1
+refp2,Texas Inland,2024-06,EPLLBAN,Normal Butane,383,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPLLBAN,Normal Butane,3747,MBURX_R3B_1
+refp2,Texas Inland,2024-07,EPLLBAN,Normal Butane,318,MBURX_R3A_1
+refp2,Texas Inland,2024-08,EPLLBAN,Normal Butane,230,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPLLBAN,Normal Butane,3888,MBURX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPLLBAN,Normal Butane,2400,MBURX_R3B_1
+refp2,Texas Inland,2024-09,EPLLBAN,Normal Butane,185,MBURX_R3A_1
+refp2,Texas Inland,2024-10,EPLLBAN,Normal Butane,-41,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPLLBAN,Normal Butane,791,MBURX_R3B_1
+refp2,Texas Inland,2024-11,EPLLBAN,Normal Butane,-116,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPLLBAN,Normal Butane,92,MBURX_R3B_1
+refp2,Texas Inland,2024-12,EPLLBAN,Normal Butane,-201,MBURX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPLLBAN,Normal Butane,67,MBURX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPLLBAN,Normal Butane,163,MBURX_R3B_1
+refp2,Texas Inland,2025-01,EPLLBAN,Normal Butane,-144,MBURX_R3A_1
+refp2,Texas Inland,2025-02,EPLLBAN,Normal Butane,16,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPLLBAN,Normal Butane,1221,MBURX_R3B_1
+refp2,Texas Inland,2025-03,EPLLBAN,Normal Butane,251,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPLLBAN,Normal Butane,2530,MBURX_R3B_1
+refp2,Texas Inland,2025-04,EPLLBAN,Normal Butane,345,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPLLBAN,Normal Butane,3588,MBURX_R3B_1
+refp2,Texas Inland,2025-05,EPLLBAN,Normal Butane,438,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPLLBAN,Normal Butane,4150,MBURX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPLLBAN,Normal Butane,3980,MBURX_R3B_1
+refp2,Texas Inland,2025-06,EPLLBAN,Normal Butane,528,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPLLBAN,Normal Butane,4052,MBURX_R3B_1
+refp2,Texas Inland,2025-07,EPLLBAN,Normal Butane,429,MBURX_R3A_1
+refp2,Texas Inland,2025-08,EPLLBAN,Normal Butane,329,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPLLBAN,Normal Butane,3734,MBURX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPLLBAN,Normal Butane,2074,MBURX_R3B_1
+refp2,Texas Inland,2025-09,EPLLBAN,Normal Butane,203,MBURX_R3A_1
+refp2,Texas Inland,2025-10,EPLLBAN,Normal Butane,-142,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPLLBAN,Normal Butane,820,MBURX_R3B_1
+refp2,Texas Inland,2025-11,EPLLBAN,Normal Butane,-241,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPLLBAN,Normal Butane,146,MBURX_R3B_1
+refp2,Texas Inland,2025-12,EPLLBAN,Normal Butane,-278,MBURX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPLLBAN,Normal Butane,750,MBURX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPLLPA,Propane,2771,MPARX_R3B_1
+refp2,Texas Inland,2020-01,EPLLPA,Propane,249,MPARX_R3A_1
+refp2,Texas Inland,2020-02,EPLLPA,Propane,159,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPLLPA,Propane,2355,MPARX_R3B_1
+refp2,Texas Inland,2020-03,EPLLPA,Propane,214,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPLLPA,Propane,2515,MPARX_R3B_1
+refp2,Texas Inland,2020-04,EPLLPA,Propane,164,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPLLPA,Propane,2085,MPARX_R3B_1
+refp2,Texas Inland,2020-05,EPLLPA,Propane,231,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPLLPA,Propane,2190,MPARX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPLLPA,Propane,1995,MPARX_R3B_1
+refp2,Texas Inland,2020-06,EPLLPA,Propane,261,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPLLPA,Propane,2157,MPARX_R3B_1
+refp2,Texas Inland,2020-07,EPLLPA,Propane,293,MPARX_R3A_1
+refp2,Texas Inland,2020-08,EPLLPA,Propane,258,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPLLPA,Propane,2106,MPARX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPLLPA,Propane,2159,MPARX_R3B_1
+refp2,Texas Inland,2020-09,EPLLPA,Propane,302,MPARX_R3A_1
+refp2,Texas Inland,2020-10,EPLLPA,Propane,408,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPLLPA,Propane,2362,MPARX_R3B_1
+refp2,Texas Inland,2020-11,EPLLPA,Propane,310,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPLLPA,Propane,2329,MPARX_R3B_1
+refp2,Texas Inland,2020-12,EPLLPA,Propane,208,MPARX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPLLPA,Propane,2435,MPARX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPLLPA,Propane,2308,MPARX_R3B_1
+refp2,Texas Inland,2021-01,EPLLPA,Propane,272,MPARX_R3A_1
+refp2,Texas Inland,2021-02,EPLLPA,Propane,143,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPLLPA,Propane,1073,MPARX_R3B_1
+refp2,Texas Inland,2021-03,EPLLPA,Propane,207,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPLLPA,Propane,1767,MPARX_R3B_1
+refp2,Texas Inland,2021-04,EPLLPA,Propane,337,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPLLPA,Propane,2290,MPARX_R3B_1
+refp2,Texas Inland,2021-05,EPLLPA,Propane,285,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPLLPA,Propane,2777,MPARX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPLLPA,Propane,2441,MPARX_R3B_1
+refp2,Texas Inland,2021-06,EPLLPA,Propane,229,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPLLPA,Propane,2381,MPARX_R3B_1
+refp2,Texas Inland,2021-07,EPLLPA,Propane,267,MPARX_R3A_1
+refp2,Texas Inland,2021-08,EPLLPA,Propane,306,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPLLPA,Propane,2575,MPARX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPLLPA,Propane,2472,MPARX_R3B_1
+refp2,Texas Inland,2021-09,EPLLPA,Propane,284,MPARX_R3A_1
+refp2,Texas Inland,2021-10,EPLLPA,Propane,294,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPLLPA,Propane,2612,MPARX_R3B_1
+refp2,Texas Inland,2021-11,EPLLPA,Propane,305,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPLLPA,Propane,2522,MPARX_R3B_1
+refp2,Texas Inland,2021-12,EPLLPA,Propane,302,MPARX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPLLPA,Propane,2607,MPARX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPLLPA,Propane,2388,MPARX_R3B_1
+refp2,Texas Inland,2022-01,EPLLPA,Propane,280,MPARX_R3A_1
+refp2,Texas Inland,2022-02,EPLLPA,Propane,217,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPLLPA,Propane,1950,MPARX_R3B_1
+refp2,Texas Inland,2022-03,EPLLPA,Propane,243,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPLLPA,Propane,2422,MPARX_R3B_1
+refp2,Texas Inland,2022-04,EPLLPA,Propane,296,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPLLPA,Propane,2516,MPARX_R3B_1
+refp2,Texas Inland,2022-05,EPLLPA,Propane,279,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPLLPA,Propane,2627,MPARX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPLLPA,Propane,2482,MPARX_R3B_1
+refp2,Texas Inland,2022-06,EPLLPA,Propane,302,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPLLPA,Propane,2544,MPARX_R3B_1
+refp2,Texas Inland,2022-07,EPLLPA,Propane,270,MPARX_R3A_1
+refp2,Texas Inland,2022-08,EPLLPA,Propane,313,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPLLPA,Propane,2554,MPARX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPLLPA,Propane,2326,MPARX_R3B_1
+refp2,Texas Inland,2022-09,EPLLPA,Propane,341,MPARX_R3A_1
+refp2,Texas Inland,2022-10,EPLLPA,Propane,288,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPLLPA,Propane,2431,MPARX_R3B_1
+refp2,Texas Inland,2022-11,EPLLPA,Propane,248,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPLLPA,Propane,2500,MPARX_R3B_1
+refp2,Texas Inland,2022-12,EPLLPA,Propane,272,MPARX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPLLPA,Propane,2396,MPARX_R3B_1
+refp2,Texas Inland,2023-01,EPLLPA,Propane,306,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPLLPA,Propane,2296,MPARX_R3B_1
+refp2,Texas Inland,2023-02,EPLLPA,Propane,257,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPLLPA,Propane,2125,MPARX_R3B_1
+refp2,Texas Inland,2023-03,EPLLPA,Propane,263,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPLLPA,Propane,2498,MPARX_R3B_1
+refp2,Texas Inland,2023-04,EPLLPA,Propane,261,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPLLPA,Propane,2417,MPARX_R3B_1
+refp2,Texas Inland,2023-05,EPLLPA,Propane,304,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPLLPA,Propane,2585,MPARX_R3B_1
+refp2,Texas Inland,2023-06,EPLLPA,Propane,276,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPLLPA,Propane,2397,MPARX_R3B_1
+refp2,Texas Inland,2023-07,EPLLPA,Propane,272,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPLLPA,Propane,2390,MPARX_R3B_1
+refp2,Texas Inland,2023-08,EPLLPA,Propane,299,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPLLPA,Propane,2409,MPARX_R3B_1
+refp2,Texas Inland,2023-09,EPLLPA,Propane,265,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPLLPA,Propane,2438,MPARX_R3B_1
+refp2,Texas Inland,2023-10,EPLLPA,Propane,258,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPLLPA,Propane,2575,MPARX_R3B_1
+refp2,Texas Inland,2023-11,EPLLPA,Propane,265,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPLLPA,Propane,2605,MPARX_R3B_1
+refp2,Texas Inland,2023-12,EPLLPA,Propane,327,MPARX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPLLPA,Propane,2781,MPARX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPLLPA,Propane,2590,MPARX_R3B_1
+refp2,Texas Inland,2024-01,EPLLPA,Propane,277,MPARX_R3A_1
+refp2,Texas Inland,2024-02,EPLLPA,Propane,279,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPLLPA,Propane,2072,MPARX_R3B_1
+refp2,Texas Inland,2024-03,EPLLPA,Propane,288,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPLLPA,Propane,2421,MPARX_R3B_1
+refp2,Texas Inland,2024-04,EPLLPA,Propane,296,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPLLPA,Propane,2391,MPARX_R3B_1
+refp2,Texas Inland,2024-05,EPLLPA,Propane,299,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPLLPA,Propane,2410,MPARX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPLLPA,Propane,2284,MPARX_R3B_1
+refp2,Texas Inland,2024-06,EPLLPA,Propane,309,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPLLPA,Propane,2215,MPARX_R3B_1
+refp2,Texas Inland,2024-07,EPLLPA,Propane,274,MPARX_R3A_1
+refp2,Texas Inland,2024-08,EPLLPA,Propane,347,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPLLPA,Propane,2419,MPARX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPLLPA,Propane,2227,MPARX_R3B_1
+refp2,Texas Inland,2024-09,EPLLPA,Propane,262,MPARX_R3A_1
+refp2,Texas Inland,2024-10,EPLLPA,Propane,256,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPLLPA,Propane,2240,MPARX_R3B_1
+refp2,Texas Inland,2024-11,EPLLPA,Propane,309,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPLLPA,Propane,2536,MPARX_R3B_1
+refp2,Texas Inland,2024-12,EPLLPA,Propane,302,MPARX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPLLPA,Propane,2737,MPARX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPLLPA,Propane,2303,MPARX_R3B_1
+refp2,Texas Inland,2025-01,EPLLPA,Propane,274,MPARX_R3A_1
+refp2,Texas Inland,2025-02,EPLLPA,Propane,232,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPLLPA,Propane,1948,MPARX_R3B_1
+refp2,Texas Inland,2025-03,EPLLPA,Propane,299,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPLLPA,Propane,2714,MPARX_R3B_1
+refp2,Texas Inland,2025-04,EPLLPA,Propane,306,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPLLPA,Propane,2573,MPARX_R3B_1
+refp2,Texas Inland,2025-05,EPLLPA,Propane,323,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPLLPA,Propane,2506,MPARX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPLLPA,Propane,2371,MPARX_R3B_1
+refp2,Texas Inland,2025-06,EPLLPA,Propane,265,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPLLPA,Propane,2178,MPARX_R3B_1
+refp2,Texas Inland,2025-07,EPLLPA,Propane,316,MPARX_R3A_1
+refp2,Texas Inland,2025-08,EPLLPA,Propane,219,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPLLPA,Propane,2279,MPARX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPLLPA,Propane,2034,MPARX_R3B_1
+refp2,Texas Inland,2025-09,EPLLPA,Propane,261,MPARX_R3A_1
+refp2,Texas Inland,2025-10,EPLLPA,Propane,247,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPLLPA,Propane,1876,MPARX_R3B_1
+refp2,Texas Inland,2025-11,EPLLPA,Propane,268,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPLLPA,Propane,2289,MPARX_R3B_1
+refp2,Texas Inland,2025-12,EPLLPA,Propane,310,MPARX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPLLPA,Propane,2570,MPARX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPM0F,Finished Motor Gasoline,14062,MGFRX_R3B_1
+refp2,Texas Inland,2020-01,EPM0F,Finished Motor Gasoline,2236,MGFRX_R3A_1
+refp2,Texas Inland,2020-02,EPM0F,Finished Motor Gasoline,1991,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPM0F,Finished Motor Gasoline,12263,MGFRX_R3B_1
+refp2,Texas Inland,2020-03,EPM0F,Finished Motor Gasoline,2269,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPM0F,Finished Motor Gasoline,13609,MGFRX_R3B_1
+refp2,Texas Inland,2020-04,EPM0F,Finished Motor Gasoline,1724,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPM0F,Finished Motor Gasoline,8563,MGFRX_R3B_1
+refp2,Texas Inland,2020-05,EPM0F,Finished Motor Gasoline,2134,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPM0F,Finished Motor Gasoline,6754,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPM0F,Finished Motor Gasoline,7869,MGFRX_R3B_1
+refp2,Texas Inland,2020-06,EPM0F,Finished Motor Gasoline,2412,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPM0F,Finished Motor Gasoline,7802,MGFRX_R3B_1
+refp2,Texas Inland,2020-07,EPM0F,Finished Motor Gasoline,2686,MGFRX_R3A_1
+refp2,Texas Inland,2020-08,EPM0F,Finished Motor Gasoline,2827,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPM0F,Finished Motor Gasoline,10813,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPM0F,Finished Motor Gasoline,11520,MGFRX_R3B_1
+refp2,Texas Inland,2020-09,EPM0F,Finished Motor Gasoline,2730,MGFRX_R3A_1
+refp2,Texas Inland,2020-10,EPM0F,Finished Motor Gasoline,2754,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPM0F,Finished Motor Gasoline,11958,MGFRX_R3B_1
+refp2,Texas Inland,2020-11,EPM0F,Finished Motor Gasoline,2478,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPM0F,Finished Motor Gasoline,12923,MGFRX_R3B_1
+refp2,Texas Inland,2020-12,EPM0F,Finished Motor Gasoline,2408,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPM0F,Finished Motor Gasoline,13829,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPM0F,Finished Motor Gasoline,14212,MGFRX_R3B_1
+refp2,Texas Inland,2021-01,EPM0F,Finished Motor Gasoline,2417,MGFRX_R3A_1
+refp2,Texas Inland,2021-02,EPM0F,Finished Motor Gasoline,1722,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPM0F,Finished Motor Gasoline,7394,MGFRX_R3B_1
+refp2,Texas Inland,2021-03,EPM0F,Finished Motor Gasoline,2524,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPM0F,Finished Motor Gasoline,10413,MGFRX_R3B_1
+refp2,Texas Inland,2021-04,EPM0F,Finished Motor Gasoline,2582,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPM0F,Finished Motor Gasoline,12405,MGFRX_R3B_1
+refp2,Texas Inland,2021-05,EPM0F,Finished Motor Gasoline,2691,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPM0F,Finished Motor Gasoline,12725,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPM0F,Finished Motor Gasoline,11871,MGFRX_R3B_1
+refp2,Texas Inland,2021-06,EPM0F,Finished Motor Gasoline,2576,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPM0F,Finished Motor Gasoline,11607,MGFRX_R3B_1
+refp2,Texas Inland,2021-07,EPM0F,Finished Motor Gasoline,2786,MGFRX_R3A_1
+refp2,Texas Inland,2021-08,EPM0F,Finished Motor Gasoline,2964,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPM0F,Finished Motor Gasoline,12439,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPM0F,Finished Motor Gasoline,12246,MGFRX_R3B_1
+refp2,Texas Inland,2021-09,EPM0F,Finished Motor Gasoline,2740,MGFRX_R3A_1
+refp2,Texas Inland,2021-10,EPM0F,Finished Motor Gasoline,2533,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPM0F,Finished Motor Gasoline,11712,MGFRX_R3B_1
+refp2,Texas Inland,2021-11,EPM0F,Finished Motor Gasoline,2496,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPM0F,Finished Motor Gasoline,13233,MGFRX_R3B_1
+refp2,Texas Inland,2021-12,EPM0F,Finished Motor Gasoline,2504,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPM0F,Finished Motor Gasoline,15083,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPM0F,Finished Motor Gasoline,12892,MGFRX_R3B_1
+refp2,Texas Inland,2022-01,EPM0F,Finished Motor Gasoline,2474,MGFRX_R3A_1
+refp2,Texas Inland,2022-02,EPM0F,Finished Motor Gasoline,2156,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPM0F,Finished Motor Gasoline,11125,MGFRX_R3B_1
+refp2,Texas Inland,2022-03,EPM0F,Finished Motor Gasoline,2734,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPM0F,Finished Motor Gasoline,11708,MGFRX_R3B_1
+refp2,Texas Inland,2022-04,EPM0F,Finished Motor Gasoline,2445,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPM0F,Finished Motor Gasoline,12003,MGFRX_R3B_1
+refp2,Texas Inland,2022-05,EPM0F,Finished Motor Gasoline,2568,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPM0F,Finished Motor Gasoline,14862,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPM0F,Finished Motor Gasoline,14172,MGFRX_R3B_1
+refp2,Texas Inland,2022-06,EPM0F,Finished Motor Gasoline,2543,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPM0F,Finished Motor Gasoline,14505,MGFRX_R3B_1
+refp2,Texas Inland,2022-07,EPM0F,Finished Motor Gasoline,2791,MGFRX_R3A_1
+refp2,Texas Inland,2022-08,EPM0F,Finished Motor Gasoline,2596,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPM0F,Finished Motor Gasoline,14652,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPM0F,Finished Motor Gasoline,14196,MGFRX_R3B_1
+refp2,Texas Inland,2022-09,EPM0F,Finished Motor Gasoline,2392,MGFRX_R3A_1
+refp2,Texas Inland,2022-10,EPM0F,Finished Motor Gasoline,2444,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPM0F,Finished Motor Gasoline,13196,MGFRX_R3B_1
+refp2,Texas Inland,2022-11,EPM0F,Finished Motor Gasoline,2051,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPM0F,Finished Motor Gasoline,15538,MGFRX_R3B_1
+refp2,Texas Inland,2022-12,EPM0F,Finished Motor Gasoline,2171,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPM0F,Finished Motor Gasoline,14838,MGFRX_R3B_1
+refp2,Texas Inland,2023-01,EPM0F,Finished Motor Gasoline,1891,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPM0F,Finished Motor Gasoline,13108,MGFRX_R3B_1
+refp2,Texas Inland,2023-02,EPM0F,Finished Motor Gasoline,1603,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPM0F,Finished Motor Gasoline,12566,MGFRX_R3B_1
+refp2,Texas Inland,2023-03,EPM0F,Finished Motor Gasoline,2358,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPM0F,Finished Motor Gasoline,15133,MGFRX_R3B_1
+refp2,Texas Inland,2023-04,EPM0F,Finished Motor Gasoline,2243,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPM0F,Finished Motor Gasoline,13767,MGFRX_R3B_1
+refp2,Texas Inland,2023-05,EPM0F,Finished Motor Gasoline,2461,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPM0F,Finished Motor Gasoline,12612,MGFRX_R3B_1
+refp2,Texas Inland,2023-06,EPM0F,Finished Motor Gasoline,2432,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPM0F,Finished Motor Gasoline,13183,MGFRX_R3B_1
+refp2,Texas Inland,2023-07,EPM0F,Finished Motor Gasoline,2587,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPM0F,Finished Motor Gasoline,14252,MGFRX_R3B_1
+refp2,Texas Inland,2023-08,EPM0F,Finished Motor Gasoline,2462,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPM0F,Finished Motor Gasoline,12376,MGFRX_R3B_1
+refp2,Texas Inland,2023-09,EPM0F,Finished Motor Gasoline,2431,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPM0F,Finished Motor Gasoline,13705,MGFRX_R3B_1
+refp2,Texas Inland,2023-10,EPM0F,Finished Motor Gasoline,2262,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPM0F,Finished Motor Gasoline,13083,MGFRX_R3B_1
+refp2,Texas Inland,2023-11,EPM0F,Finished Motor Gasoline,2127,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPM0F,Finished Motor Gasoline,14080,MGFRX_R3B_1
+refp2,Texas Inland,2023-12,EPM0F,Finished Motor Gasoline,2324,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPM0F,Finished Motor Gasoline,17473,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPM0F,Finished Motor Gasoline,15213,MGFRX_R3B_1
+refp2,Texas Inland,2024-01,EPM0F,Finished Motor Gasoline,2166,MGFRX_R3A_1
+refp2,Texas Inland,2024-02,EPM0F,Finished Motor Gasoline,2248,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPM0F,Finished Motor Gasoline,11064,MGFRX_R3B_1
+refp2,Texas Inland,2024-03,EPM0F,Finished Motor Gasoline,2433,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPM0F,Finished Motor Gasoline,12421,MGFRX_R3B_1
+refp2,Texas Inland,2024-04,EPM0F,Finished Motor Gasoline,2158,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPM0F,Finished Motor Gasoline,12967,MGFRX_R3B_1
+refp2,Texas Inland,2024-05,EPM0F,Finished Motor Gasoline,2291,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPM0F,Finished Motor Gasoline,12070,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPM0F,Finished Motor Gasoline,14551,MGFRX_R3B_1
+refp2,Texas Inland,2024-06,EPM0F,Finished Motor Gasoline,2193,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPM0F,Finished Motor Gasoline,13512,MGFRX_R3B_1
+refp2,Texas Inland,2024-07,EPM0F,Finished Motor Gasoline,2413,MGFRX_R3A_1
+refp2,Texas Inland,2024-08,EPM0F,Finished Motor Gasoline,2646,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPM0F,Finished Motor Gasoline,12446,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPM0F,Finished Motor Gasoline,11156,MGFRX_R3B_1
+refp2,Texas Inland,2024-09,EPM0F,Finished Motor Gasoline,2351,MGFRX_R3A_1
+refp2,Texas Inland,2024-10,EPM0F,Finished Motor Gasoline,2350,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPM0F,Finished Motor Gasoline,13756,MGFRX_R3B_1
+refp2,Texas Inland,2024-11,EPM0F,Finished Motor Gasoline,2105,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPM0F,Finished Motor Gasoline,15108,MGFRX_R3B_1
+refp2,Texas Inland,2024-12,EPM0F,Finished Motor Gasoline,2205,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPM0F,Finished Motor Gasoline,17122,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPM0F,Finished Motor Gasoline,13611,MGFRX_R3B_1
+refp2,Texas Inland,2025-01,EPM0F,Finished Motor Gasoline,2044,MGFRX_R3A_1
+refp2,Texas Inland,2025-02,EPM0F,Finished Motor Gasoline,1722,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPM0F,Finished Motor Gasoline,10440,MGFRX_R3B_1
+refp2,Texas Inland,2025-03,EPM0F,Finished Motor Gasoline,2003,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPM0F,Finished Motor Gasoline,10524,MGFRX_R3B_1
+refp2,Texas Inland,2025-04,EPM0F,Finished Motor Gasoline,2156,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPM0F,Finished Motor Gasoline,8863,MGFRX_R3B_1
+refp2,Texas Inland,2025-05,EPM0F,Finished Motor Gasoline,2330,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPM0F,Finished Motor Gasoline,10581,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPM0F,Finished Motor Gasoline,10339,MGFRX_R3B_1
+refp2,Texas Inland,2025-06,EPM0F,Finished Motor Gasoline,2030,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPM0F,Finished Motor Gasoline,9558,MGFRX_R3B_1
+refp2,Texas Inland,2025-07,EPM0F,Finished Motor Gasoline,2076,MGFRX_R3A_1
+refp2,Texas Inland,2025-08,EPM0F,Finished Motor Gasoline,2299,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPM0F,Finished Motor Gasoline,8455,MGFRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPM0F,Finished Motor Gasoline,8689,MGFRX_R3B_1
+refp2,Texas Inland,2025-09,EPM0F,Finished Motor Gasoline,1989,MGFRX_R3A_1
+refp2,Texas Inland,2025-10,EPM0F,Finished Motor Gasoline,2252,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPM0F,Finished Motor Gasoline,9583,MGFRX_R3B_1
+refp2,Texas Inland,2025-11,EPM0F,Finished Motor Gasoline,2285,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPM0F,Finished Motor Gasoline,11285,MGFRX_R3B_1
+refp2,Texas Inland,2025-12,EPM0F,Finished Motor Gasoline,2572,MGFRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPM0F,Finished Motor Gasoline,9949,MGFRX_R3B_1
+refp2,Texas Inland,2020-01,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-01,EPPK,Kerosene,22,MKERX_R3B_1
+refp2,Texas Inland,2020-02,EPPK,Kerosene,-24,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPPK,Kerosene,107,MKERX_R3B_1
+refp2,Texas Inland,2020-03,EPPK,Kerosene,27,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPPK,Kerosene,120,MKERX_R3B_1
+refp2,Texas Inland,2020-04,EPPK,Kerosene,-5,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPPK,Kerosene,112,MKERX_R3B_1
+refp2,Texas Inland,2020-05,EPPK,Kerosene,9,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPPK,Kerosene,33,MKERX_R3B_1
+refp2,Texas Inland,2020-06,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-06,EPPK,Kerosene,100,MKERX_R3B_1
+refp2,Texas Inland,2020-07,EPPK,Kerosene,-7,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPPK,Kerosene,110,MKERX_R3B_1
+refp2,Texas Inland,2020-08,EPPK,Kerosene,19,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPPK,Kerosene,452,MKERX_R3B_1
+refp2,Texas Inland,2020-09,EPPK,Kerosene,-10,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-09,EPPK,Kerosene,291,MKERX_R3B_1
+refp2,Texas Inland,2020-10,EPPK,Kerosene,-2,MKERX_R3A_1
+refp2,Texas Inland,2020-11,EPPK,Kerosene,-2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPPK,Kerosene,95,MKERX_R3B_1
+refp2,Texas Inland,2020-12,EPPK,Kerosene,15,MKERX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPPK,Kerosene,219,MKERX_R3B_1
+refp2,Texas Inland,2021-01,EPPK,Kerosene,-2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-01,EPPK,Kerosene,-4,MKERX_R3B_1
+refp2,Texas Inland,2021-02,EPPK,Kerosene,1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPPK,Kerosene,152,MKERX_R3B_1
+refp2,Texas Inland,2021-03,EPPK,Kerosene,-14,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPPK,Kerosene,54,MKERX_R3B_1
+refp2,Texas Inland,2021-04,EPPK,Kerosene,4,MKERX_R3A_1
+refp2,Texas Inland,2021-05,EPPK,Kerosene,7,MKERX_R3A_1
+refp2,Texas Inland,2021-06,EPPK,Kerosene,6,MKERX_R3A_1
+refp2,Texas Inland,2021-07,EPPK,Kerosene,-14,MKERX_R3A_1
+refp2,Texas Inland,2021-08,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPPK,Kerosene,50,MKERX_R3B_1
+refp2,Texas Inland,2021-09,EPPK,Kerosene,4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-09,EPPK,Kerosene,217,MKERX_R3B_1
+refp2,Texas Inland,2021-10,EPPK,Kerosene,1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPPK,Kerosene,237,MKERX_R3B_1
+refp2,Texas Inland,2021-11,EPPK,Kerosene,11,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPPK,Kerosene,120,MKERX_R3B_1
+refp2,Texas Inland,2021-12,EPPK,Kerosene,0,MKERX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPPK,Kerosene,81,MKERX_R3B_1
+refp2,Texas Inland,2022-01,EPPK,Kerosene,-18,MKERX_R3A_1
+refp2,Texas Inland,2022-02,EPPK,Kerosene,9,MKERX_R3A_1
+refp2,Texas Inland,2022-03,EPPK,Kerosene,-10,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPPK,Kerosene,20,MKERX_R3B_1
+refp2,Texas Inland,2022-04,EPPK,Kerosene,6,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPPK,Kerosene,61,MKERX_R3B_1
+refp2,Texas Inland,2022-05,EPPK,Kerosene,6,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPPK,Kerosene,158,MKERX_R3B_1
+refp2,Texas Inland,2022-06,EPPK,Kerosene,-12,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-06,EPPK,Kerosene,60,MKERX_R3B_1
+refp2,Texas Inland,2022-07,EPPK,Kerosene,3,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPPK,Kerosene,158,MKERX_R3B_1
+refp2,Texas Inland,2022-08,EPPK,Kerosene,7,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPPK,Kerosene,347,MKERX_R3B_1
+refp2,Texas Inland,2022-09,EPPK,Kerosene,2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-09,EPPK,Kerosene,145,MKERX_R3B_1
+refp2,Texas Inland,2022-10,EPPK,Kerosene,6,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPPK,Kerosene,317,MKERX_R3B_1
+refp2,Texas Inland,2022-11,EPPK,Kerosene,-10,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPPK,Kerosene,419,MKERX_R3B_1
+refp2,Texas Inland,2022-12,EPPK,Kerosene,5,MKERX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPPK,Kerosene,551,MKERX_R3B_1
+refp2,Texas Inland,2023-01,EPPK,Kerosene,2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPPK,Kerosene,218,MKERX_R3B_1
+refp2,Texas Inland,2023-02,EPPK,Kerosene,-1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPPK,Kerosene,185,MKERX_R3B_1
+refp2,Texas Inland,2023-03,EPPK,Kerosene,-1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPPK,Kerosene,193,MKERX_R3B_1
+refp2,Texas Gulf Coast,2023-04,EPPK,Kerosene,217,MKERX_R3B_1
+refp2,Texas Inland,2023-04,EPPK,Kerosene,0,MKERX_R3A_1
+refp2,Texas Inland,2023-05,EPPK,Kerosene,-2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPPK,Kerosene,277,MKERX_R3B_1
+refp2,Texas Inland,2023-06,EPPK,Kerosene,-16,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPPK,Kerosene,234,MKERX_R3B_1
+refp2,Texas Gulf Coast,2023-07,EPPK,Kerosene,167,MKERX_R3B_1
+refp2,Texas Inland,2023-07,EPPK,Kerosene,2,MKERX_R3A_1
+refp2,Texas Inland,2023-08,EPPK,Kerosene,25,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPPK,Kerosene,160,MKERX_R3B_1
+refp2,Texas Inland,2023-09,EPPK,Kerosene,-17,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPPK,Kerosene,392,MKERX_R3B_1
+refp2,Texas Inland,2023-10,EPPK,Kerosene,-9,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPPK,Kerosene,234,MKERX_R3B_1
+refp2,Texas Inland,2023-11,EPPK,Kerosene,14,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPPK,Kerosene,300,MKERX_R3B_1
+refp2,Texas Inland,2023-12,EPPK,Kerosene,3,MKERX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPPK,Kerosene,422,MKERX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPPK,Kerosene,398,MKERX_R3B_1
+refp2,Texas Inland,2024-01,EPPK,Kerosene,-21,MKERX_R3A_1
+refp2,Texas Inland,2024-02,EPPK,Kerosene,23,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPPK,Kerosene,222,MKERX_R3B_1
+refp2,Texas Inland,2024-03,EPPK,Kerosene,11,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPPK,Kerosene,222,MKERX_R3B_1
+refp2,Texas Inland,2024-04,EPPK,Kerosene,-1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPPK,Kerosene,165,MKERX_R3B_1
+refp2,Texas Inland,2024-05,EPPK,Kerosene,-12,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPPK,Kerosene,218,MKERX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPPK,Kerosene,200,MKERX_R3B_1
+refp2,Texas Inland,2024-06,EPPK,Kerosene,11,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPPK,Kerosene,198,MKERX_R3B_1
+refp2,Texas Inland,2024-07,EPPK,Kerosene,-23,MKERX_R3A_1
+refp2,Texas Inland,2024-08,EPPK,Kerosene,-3,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPPK,Kerosene,249,MKERX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPPK,Kerosene,235,MKERX_R3B_1
+refp2,Texas Inland,2024-09,EPPK,Kerosene,18,MKERX_R3A_1
+refp2,Texas Inland,2024-10,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPPK,Kerosene,334,MKERX_R3B_1
+refp2,Texas Inland,2024-11,EPPK,Kerosene,5,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPPK,Kerosene,247,MKERX_R3B_1
+refp2,Texas Inland,2024-12,EPPK,Kerosene,1,MKERX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPPK,Kerosene,219,MKERX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPPK,Kerosene,265,MKERX_R3B_1
+refp2,Texas Inland,2025-01,EPPK,Kerosene,-22,MKERX_R3A_1
+refp2,Texas Inland,2025-02,EPPK,Kerosene,4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPPK,Kerosene,248,MKERX_R3B_1
+refp2,Texas Inland,2025-03,EPPK,Kerosene,10,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPPK,Kerosene,276,MKERX_R3B_1
+refp2,Texas Inland,2025-04,EPPK,Kerosene,13,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPPK,Kerosene,257,MKERX_R3B_1
+refp2,Texas Inland,2025-05,EPPK,Kerosene,-8,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPPK,Kerosene,294,MKERX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPPK,Kerosene,265,MKERX_R3B_1
+refp2,Texas Inland,2025-06,EPPK,Kerosene,8,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPPK,Kerosene,235,MKERX_R3B_1
+refp2,Texas Inland,2025-07,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Inland,2025-08,EPPK,Kerosene,0,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPPK,Kerosene,247,MKERX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPPK,Kerosene,256,MKERX_R3B_1
+refp2,Texas Inland,2025-09,EPPK,Kerosene,-7,MKERX_R3A_1
+refp2,Texas Inland,2025-10,EPPK,Kerosene,-4,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPPK,Kerosene,295,MKERX_R3B_1
+refp2,Texas Inland,2025-11,EPPK,Kerosene,2,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPPK,Kerosene,258,MKERX_R3B_1
+refp2,Texas Inland,2025-12,EPPK,Kerosene,10,MKERX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPPK,Kerosene,92,MKERX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPPL,Lubricants,1470,MLURX_R3B_1
+refp2,Texas Inland,2020-01,EPPL,Lubricants,5,MLURX_R3A_1
+refp2,Texas Inland,2020-02,EPPL,Lubricants,0,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPPL,Lubricants,1095,MLURX_R3B_1
+refp2,Texas Inland,2020-03,EPPL,Lubricants,18,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPPL,Lubricants,1192,MLURX_R3B_1
+refp2,Texas Inland,2020-04,EPPL,Lubricants,20,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPPL,Lubricants,1455,MLURX_R3B_1
+refp2,Texas Inland,2020-05,EPPL,Lubricants,12,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPPL,Lubricants,1168,MLURX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPPL,Lubricants,1618,MLURX_R3B_1
+refp2,Texas Inland,2020-06,EPPL,Lubricants,19,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPPL,Lubricants,1582,MLURX_R3B_1
+refp2,Texas Inland,2020-07,EPPL,Lubricants,18,MLURX_R3A_1
+refp2,Texas Inland,2020-08,EPPL,Lubricants,22,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPPL,Lubricants,1420,MLURX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPPL,Lubricants,1532,MLURX_R3B_1
+refp2,Texas Inland,2020-09,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Inland,2020-10,EPPL,Lubricants,19,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPPL,Lubricants,1757,MLURX_R3B_1
+refp2,Texas Inland,2020-11,EPPL,Lubricants,22,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPPL,Lubricants,1794,MLURX_R3B_1
+refp2,Texas Inland,2020-12,EPPL,Lubricants,24,MLURX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPPL,Lubricants,1673,MLURX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPPL,Lubricants,1612,MLURX_R3B_1
+refp2,Texas Inland,2021-01,EPPL,Lubricants,23,MLURX_R3A_1
+refp2,Texas Inland,2021-02,EPPL,Lubricants,12,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPPL,Lubricants,701,MLURX_R3B_1
+refp2,Texas Inland,2021-03,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPPL,Lubricants,1028,MLURX_R3B_1
+refp2,Texas Inland,2021-04,EPPL,Lubricants,24,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPPL,Lubricants,1778,MLURX_R3B_1
+refp2,Texas Inland,2021-05,EPPL,Lubricants,15,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPPL,Lubricants,1713,MLURX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPPL,Lubricants,1784,MLURX_R3B_1
+refp2,Texas Inland,2021-06,EPPL,Lubricants,-1,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPPL,Lubricants,1860,MLURX_R3B_1
+refp2,Texas Inland,2021-07,EPPL,Lubricants,13,MLURX_R3A_1
+refp2,Texas Inland,2021-08,EPPL,Lubricants,18,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPPL,Lubricants,1639,MLURX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPPL,Lubricants,1707,MLURX_R3B_1
+refp2,Texas Inland,2021-09,EPPL,Lubricants,6,MLURX_R3A_1
+refp2,Texas Inland,2021-10,EPPL,Lubricants,19,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPPL,Lubricants,1618,MLURX_R3B_1
+refp2,Texas Inland,2021-11,EPPL,Lubricants,22,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPPL,Lubricants,1650,MLURX_R3B_1
+refp2,Texas Inland,2021-12,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPPL,Lubricants,1748,MLURX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPPL,Lubricants,1466,MLURX_R3B_1
+refp2,Texas Inland,2022-01,EPPL,Lubricants,7,MLURX_R3A_1
+refp2,Texas Inland,2022-02,EPPL,Lubricants,23,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPPL,Lubricants,1615,MLURX_R3B_1
+refp2,Texas Inland,2022-03,EPPL,Lubricants,-1,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPPL,Lubricants,1753,MLURX_R3B_1
+refp2,Texas Inland,2022-04,EPPL,Lubricants,24,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPPL,Lubricants,1597,MLURX_R3B_1
+refp2,Texas Inland,2022-05,EPPL,Lubricants,14,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPPL,Lubricants,1751,MLURX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPPL,Lubricants,1727,MLURX_R3B_1
+refp2,Texas Inland,2022-06,EPPL,Lubricants,23,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPPL,Lubricants,1681,MLURX_R3B_1
+refp2,Texas Inland,2022-07,EPPL,Lubricants,19,MLURX_R3A_1
+refp2,Texas Inland,2022-08,EPPL,Lubricants,5,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPPL,Lubricants,1077,MLURX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPPL,Lubricants,1421,MLURX_R3B_1
+refp2,Texas Inland,2022-09,EPPL,Lubricants,0,MLURX_R3A_1
+refp2,Texas Inland,2022-10,EPPL,Lubricants,13,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPPL,Lubricants,976,MLURX_R3B_1
+refp2,Texas Inland,2022-11,EPPL,Lubricants,12,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPPL,Lubricants,1326,MLURX_R3B_1
+refp2,Texas Inland,2022-12,EPPL,Lubricants,14,MLURX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPPL,Lubricants,1553,MLURX_R3B_1
+refp2,Texas Inland,2023-01,EPPL,Lubricants,23,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPPL,Lubricants,1708,MLURX_R3B_1
+refp2,Texas Inland,2023-02,EPPL,Lubricants,4,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPPL,Lubricants,1515,MLURX_R3B_1
+refp2,Texas Inland,2023-03,EPPL,Lubricants,-4,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPPL,Lubricants,1575,MLURX_R3B_1
+refp2,Texas Inland,2023-04,EPPL,Lubricants,23,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPPL,Lubricants,1675,MLURX_R3B_1
+refp2,Texas Inland,2023-05,EPPL,Lubricants,0,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPPL,Lubricants,1766,MLURX_R3B_1
+refp2,Texas Inland,2023-06,EPPL,Lubricants,7,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPPL,Lubricants,1696,MLURX_R3B_1
+refp2,Texas Inland,2023-07,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPPL,Lubricants,1628,MLURX_R3B_1
+refp2,Texas Inland,2023-08,EPPL,Lubricants,14,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPPL,Lubricants,1640,MLURX_R3B_1
+refp2,Texas Inland,2023-09,EPPL,Lubricants,15,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPPL,Lubricants,1138,MLURX_R3B_1
+refp2,Texas Inland,2023-10,EPPL,Lubricants,2,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPPL,Lubricants,1157,MLURX_R3B_1
+refp2,Texas Inland,2023-11,EPPL,Lubricants,13,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPPL,Lubricants,1388,MLURX_R3B_1
+refp2,Texas Inland,2023-12,EPPL,Lubricants,15,MLURX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPPL,Lubricants,1572,MLURX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPPL,Lubricants,1564,MLURX_R3B_1
+refp2,Texas Inland,2024-01,EPPL,Lubricants,2,MLURX_R3A_1
+refp2,Texas Inland,2024-02,EPPL,Lubricants,18,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPPL,Lubricants,1539,MLURX_R3B_1
+refp2,Texas Inland,2024-03,EPPL,Lubricants,4,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPPL,Lubricants,1625,MLURX_R3B_1
+refp2,Texas Inland,2024-04,EPPL,Lubricants,18,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPPL,Lubricants,1569,MLURX_R3B_1
+refp2,Texas Inland,2024-05,EPPL,Lubricants,26,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPPL,Lubricants,1695,MLURX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPPL,Lubricants,1657,MLURX_R3B_1
+refp2,Texas Inland,2024-06,EPPL,Lubricants,6,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPPL,Lubricants,1505,MLURX_R3B_1
+refp2,Texas Inland,2024-07,EPPL,Lubricants,22,MLURX_R3A_1
+refp2,Texas Inland,2024-08,EPPL,Lubricants,6,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPPL,Lubricants,1626,MLURX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPPL,Lubricants,1472,MLURX_R3B_1
+refp2,Texas Inland,2024-09,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Inland,2024-10,EPPL,Lubricants,21,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPPL,Lubricants,1623,MLURX_R3B_1
+refp2,Texas Inland,2024-11,EPPL,Lubricants,9,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPPL,Lubricants,1377,MLURX_R3B_1
+refp2,Texas Inland,2024-12,EPPL,Lubricants,-4,MLURX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPPL,Lubricants,1711,MLURX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPPL,Lubricants,1357,MLURX_R3B_1
+refp2,Texas Inland,2025-01,EPPL,Lubricants,19,MLURX_R3A_1
+refp2,Texas Inland,2025-02,EPPL,Lubricants,10,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPPL,Lubricants,1321,MLURX_R3B_1
+refp2,Texas Inland,2025-03,EPPL,Lubricants,17,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPPL,Lubricants,1511,MLURX_R3B_1
+refp2,Texas Inland,2025-04,EPPL,Lubricants,3,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPPL,Lubricants,1274,MLURX_R3B_1
+refp2,Texas Inland,2025-05,EPPL,Lubricants,4,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPPL,Lubricants,1647,MLURX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPPL,Lubricants,1304,MLURX_R3B_1
+refp2,Texas Inland,2025-06,EPPL,Lubricants,24,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPPL,Lubricants,1612,MLURX_R3B_1
+refp2,Texas Inland,2025-07,EPPL,Lubricants,25,MLURX_R3A_1
+refp2,Texas Inland,2025-08,EPPL,Lubricants,16,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPPL,Lubricants,1661,MLURX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPPL,Lubricants,1346,MLURX_R3B_1
+refp2,Texas Inland,2025-09,EPPL,Lubricants,14,MLURX_R3A_1
+refp2,Texas Inland,2025-10,EPPL,Lubricants,25,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPPL,Lubricants,1713,MLURX_R3B_1
+refp2,Texas Inland,2025-11,EPPL,Lubricants,8,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPPL,Lubricants,1505,MLURX_R3B_1
+refp2,Texas Inland,2025-12,EPPL,Lubricants,25,MLURX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPPL,Lubricants,1629,MLURX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPPNS,Special Naphthas,712,MNSRX_R3B_1
+refp2,Texas Inland,2020-01,EPPNS,Special Naphthas,72,MNSRX_R3A_1
+refp2,Texas Inland,2020-02,EPPNS,Special Naphthas,81,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPPNS,Special Naphthas,609,MNSRX_R3B_1
+refp2,Texas Inland,2020-03,EPPNS,Special Naphthas,41,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPPNS,Special Naphthas,845,MNSRX_R3B_1
+refp2,Texas Inland,2020-04,EPPNS,Special Naphthas,86,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPPNS,Special Naphthas,685,MNSRX_R3B_1
+refp2,Texas Inland,2020-05,EPPNS,Special Naphthas,61,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPPNS,Special Naphthas,579,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPPNS,Special Naphthas,513,MNSRX_R3B_1
+refp2,Texas Inland,2020-06,EPPNS,Special Naphthas,63,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPPNS,Special Naphthas,516,MNSRX_R3B_1
+refp2,Texas Inland,2020-07,EPPNS,Special Naphthas,75,MNSRX_R3A_1
+refp2,Texas Inland,2020-08,EPPNS,Special Naphthas,70,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPPNS,Special Naphthas,590,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPPNS,Special Naphthas,705,MNSRX_R3B_1
+refp2,Texas Inland,2020-09,EPPNS,Special Naphthas,62,MNSRX_R3A_1
+refp2,Texas Inland,2020-10,EPPNS,Special Naphthas,67,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPPNS,Special Naphthas,726,MNSRX_R3B_1
+refp2,Texas Inland,2020-11,EPPNS,Special Naphthas,77,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPPNS,Special Naphthas,709,MNSRX_R3B_1
+refp2,Texas Inland,2020-12,EPPNS,Special Naphthas,60,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPPNS,Special Naphthas,652,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPPNS,Special Naphthas,725,MNSRX_R3B_1
+refp2,Texas Inland,2021-01,EPPNS,Special Naphthas,55,MNSRX_R3A_1
+refp2,Texas Inland,2021-02,EPPNS,Special Naphthas,40,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPPNS,Special Naphthas,288,MNSRX_R3B_1
+refp2,Texas Inland,2021-03,EPPNS,Special Naphthas,42,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPPNS,Special Naphthas,625,MNSRX_R3B_1
+refp2,Texas Inland,2021-04,EPPNS,Special Naphthas,77,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPPNS,Special Naphthas,730,MNSRX_R3B_1
+refp2,Texas Inland,2021-05,EPPNS,Special Naphthas,107,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPPNS,Special Naphthas,850,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPPNS,Special Naphthas,638,MNSRX_R3B_1
+refp2,Texas Inland,2021-06,EPPNS,Special Naphthas,100,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPPNS,Special Naphthas,555,MNSRX_R3B_1
+refp2,Texas Inland,2021-07,EPPNS,Special Naphthas,88,MNSRX_R3A_1
+refp2,Texas Inland,2021-08,EPPNS,Special Naphthas,93,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPPNS,Special Naphthas,779,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPPNS,Special Naphthas,645,MNSRX_R3B_1
+refp2,Texas Inland,2021-09,EPPNS,Special Naphthas,66,MNSRX_R3A_1
+refp2,Texas Inland,2021-10,EPPNS,Special Naphthas,37,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPPNS,Special Naphthas,667,MNSRX_R3B_1
+refp2,Texas Inland,2021-11,EPPNS,Special Naphthas,87,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPPNS,Special Naphthas,674,MNSRX_R3B_1
+refp2,Texas Inland,2021-12,EPPNS,Special Naphthas,84,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPPNS,Special Naphthas,631,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPPNS,Special Naphthas,1117,MNSRX_R3B_1
+refp2,Texas Inland,2022-01,EPPNS,Special Naphthas,72,MNSRX_R3A_1
+refp2,Texas Inland,2022-02,EPPNS,Special Naphthas,61,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPPNS,Special Naphthas,618,MNSRX_R3B_1
+refp2,Texas Inland,2022-03,EPPNS,Special Naphthas,65,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPPNS,Special Naphthas,805,MNSRX_R3B_1
+refp2,Texas Inland,2022-04,EPPNS,Special Naphthas,44,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPPNS,Special Naphthas,716,MNSRX_R3B_1
+refp2,Texas Inland,2022-05,EPPNS,Special Naphthas,81,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPPNS,Special Naphthas,839,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPPNS,Special Naphthas,750,MNSRX_R3B_1
+refp2,Texas Inland,2022-06,EPPNS,Special Naphthas,63,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPPNS,Special Naphthas,731,MNSRX_R3B_1
+refp2,Texas Inland,2022-07,EPPNS,Special Naphthas,53,MNSRX_R3A_1
+refp2,Texas Inland,2022-08,EPPNS,Special Naphthas,50,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPPNS,Special Naphthas,679,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPPNS,Special Naphthas,616,MNSRX_R3B_1
+refp2,Texas Inland,2022-09,EPPNS,Special Naphthas,42,MNSRX_R3A_1
+refp2,Texas Inland,2022-10,EPPNS,Special Naphthas,60,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPPNS,Special Naphthas,633,MNSRX_R3B_1
+refp2,Texas Inland,2022-11,EPPNS,Special Naphthas,66,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPPNS,Special Naphthas,631,MNSRX_R3B_1
+refp2,Texas Inland,2022-12,EPPNS,Special Naphthas,30,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPPNS,Special Naphthas,459,MNSRX_R3B_1
+refp2,Texas Inland,2023-01,EPPNS,Special Naphthas,54,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPPNS,Special Naphthas,625,MNSRX_R3B_1
+refp2,Texas Inland,2023-02,EPPNS,Special Naphthas,59,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPPNS,Special Naphthas,532,MNSRX_R3B_1
+refp2,Texas Inland,2023-03,EPPNS,Special Naphthas,29,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPPNS,Special Naphthas,643,MNSRX_R3B_1
+refp2,Texas Inland,2023-04,EPPNS,Special Naphthas,39,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPPNS,Special Naphthas,574,MNSRX_R3B_1
+refp2,Texas Inland,2023-05,EPPNS,Special Naphthas,36,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPPNS,Special Naphthas,564,MNSRX_R3B_1
+refp2,Texas Inland,2023-06,EPPNS,Special Naphthas,45,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPPNS,Special Naphthas,512,MNSRX_R3B_1
+refp2,Texas Inland,2023-07,EPPNS,Special Naphthas,76,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPPNS,Special Naphthas,650,MNSRX_R3B_1
+refp2,Texas Inland,2023-08,EPPNS,Special Naphthas,76,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPPNS,Special Naphthas,670,MNSRX_R3B_1
+refp2,Texas Inland,2023-09,EPPNS,Special Naphthas,85,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPPNS,Special Naphthas,555,MNSRX_R3B_1
+refp2,Texas Inland,2023-10,EPPNS,Special Naphthas,13,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPPNS,Special Naphthas,687,MNSRX_R3B_1
+refp2,Texas Inland,2023-11,EPPNS,Special Naphthas,23,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPPNS,Special Naphthas,746,MNSRX_R3B_1
+refp2,Texas Inland,2023-12,EPPNS,Special Naphthas,70,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPPNS,Special Naphthas,598,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPPNS,Special Naphthas,517,MNSRX_R3B_1
+refp2,Texas Inland,2024-01,EPPNS,Special Naphthas,76,MNSRX_R3A_1
+refp2,Texas Inland,2024-02,EPPNS,Special Naphthas,48,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPPNS,Special Naphthas,434,MNSRX_R3B_1
+refp2,Texas Inland,2024-03,EPPNS,Special Naphthas,62,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPPNS,Special Naphthas,653,MNSRX_R3B_1
+refp2,Texas Inland,2024-04,EPPNS,Special Naphthas,32,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPPNS,Special Naphthas,678,MNSRX_R3B_1
+refp2,Texas Inland,2024-05,EPPNS,Special Naphthas,-3,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPPNS,Special Naphthas,720,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPPNS,Special Naphthas,689,MNSRX_R3B_1
+refp2,Texas Inland,2024-06,EPPNS,Special Naphthas,64,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPPNS,Special Naphthas,567,MNSRX_R3B_1
+refp2,Texas Inland,2024-07,EPPNS,Special Naphthas,62,MNSRX_R3A_1
+refp2,Texas Inland,2024-08,EPPNS,Special Naphthas,27,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPPNS,Special Naphthas,649,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPPNS,Special Naphthas,603,MNSRX_R3B_1
+refp2,Texas Inland,2024-09,EPPNS,Special Naphthas,64,MNSRX_R3A_1
+refp2,Texas Inland,2024-10,EPPNS,Special Naphthas,43,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPPNS,Special Naphthas,630,MNSRX_R3B_1
+refp2,Texas Inland,2024-11,EPPNS,Special Naphthas,51,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPPNS,Special Naphthas,594,MNSRX_R3B_1
+refp2,Texas Inland,2024-12,EPPNS,Special Naphthas,41,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPPNS,Special Naphthas,645,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPPNS,Special Naphthas,598,MNSRX_R3B_1
+refp2,Texas Inland,2025-01,EPPNS,Special Naphthas,44,MNSRX_R3A_1
+refp2,Texas Inland,2025-02,EPPNS,Special Naphthas,34,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPPNS,Special Naphthas,595,MNSRX_R3B_1
+refp2,Texas Inland,2025-03,EPPNS,Special Naphthas,3,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPPNS,Special Naphthas,642,MNSRX_R3B_1
+refp2,Texas Inland,2025-04,EPPNS,Special Naphthas,56,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPPNS,Special Naphthas,697,MNSRX_R3B_1
+refp2,Texas Inland,2025-05,EPPNS,Special Naphthas,47,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPPNS,Special Naphthas,690,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPPNS,Special Naphthas,701,MNSRX_R3B_1
+refp2,Texas Inland,2025-06,EPPNS,Special Naphthas,35,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPPNS,Special Naphthas,607,MNSRX_R3B_1
+refp2,Texas Inland,2025-07,EPPNS,Special Naphthas,63,MNSRX_R3A_1
+refp2,Texas Inland,2025-08,EPPNS,Special Naphthas,47,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPPNS,Special Naphthas,829,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPPNS,Special Naphthas,856,MNSRX_R3B_1
+refp2,Texas Inland,2025-09,EPPNS,Special Naphthas,36,MNSRX_R3A_1
+refp2,Texas Inland,2025-10,EPPNS,Special Naphthas,69,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPPNS,Special Naphthas,589,MNSRX_R3B_1
+refp2,Texas Inland,2025-11,EPPNS,Special Naphthas,33,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPPNS,Special Naphthas,738,MNSRX_R3B_1
+refp2,Texas Inland,2025-12,EPPNS,Special Naphthas,35,MNSRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPPNS,Special Naphthas,707,MNSRX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPPP0,Petrochemical Feedstocks,5934,MPCRX_R3B_1
+refp2,Texas Inland,2020-01,EPPP0,Petrochemical Feedstocks,90,MPCRX_R3A_1
+refp2,Texas Inland,2020-02,EPPP0,Petrochemical Feedstocks,51,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPPP0,Petrochemical Feedstocks,5062,MPCRX_R3B_1
+refp2,Texas Inland,2020-03,EPPP0,Petrochemical Feedstocks,126,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPPP0,Petrochemical Feedstocks,5499,MPCRX_R3B_1
+refp2,Texas Inland,2020-04,EPPP0,Petrochemical Feedstocks,108,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPPP0,Petrochemical Feedstocks,4540,MPCRX_R3B_1
+refp2,Texas Inland,2020-05,EPPP0,Petrochemical Feedstocks,101,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPPP0,Petrochemical Feedstocks,4082,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPPP0,Petrochemical Feedstocks,3939,MPCRX_R3B_1
+refp2,Texas Inland,2020-06,EPPP0,Petrochemical Feedstocks,110,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPPP0,Petrochemical Feedstocks,4449,MPCRX_R3B_1
+refp2,Texas Inland,2020-07,EPPP0,Petrochemical Feedstocks,119,MPCRX_R3A_1
+refp2,Texas Inland,2020-08,EPPP0,Petrochemical Feedstocks,130,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPPP0,Petrochemical Feedstocks,4593,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPPP0,Petrochemical Feedstocks,5264,MPCRX_R3B_1
+refp2,Texas Inland,2020-09,EPPP0,Petrochemical Feedstocks,130,MPCRX_R3A_1
+refp2,Texas Inland,2020-10,EPPP0,Petrochemical Feedstocks,128,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPPP0,Petrochemical Feedstocks,5402,MPCRX_R3B_1
+refp2,Texas Inland,2020-11,EPPP0,Petrochemical Feedstocks,113,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPPP0,Petrochemical Feedstocks,5260,MPCRX_R3B_1
+refp2,Texas Inland,2020-12,EPPP0,Petrochemical Feedstocks,98,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPPP0,Petrochemical Feedstocks,6153,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2021-01,EPPP0,Petrochemical Feedstocks,4779,MPCRX_R3B_1
+refp2,Texas Inland,2021-01,EPPP0,Petrochemical Feedstocks,140,MPCRX_R3A_1
+refp2,Texas Inland,2021-02,EPPP0,Petrochemical Feedstocks,49,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-02,EPPP0,Petrochemical Feedstocks,1985,MPCRX_R3B_1
+refp2,Texas Inland,2021-03,EPPP0,Petrochemical Feedstocks,122,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPPP0,Petrochemical Feedstocks,3036,MPCRX_R3B_1
+refp2,Texas Inland,2021-04,EPPP0,Petrochemical Feedstocks,136,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPPP0,Petrochemical Feedstocks,5294,MPCRX_R3B_1
+refp2,Texas Inland,2021-05,EPPP0,Petrochemical Feedstocks,142,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPPP0,Petrochemical Feedstocks,5341,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPPP0,Petrochemical Feedstocks,5038,MPCRX_R3B_1
+refp2,Texas Inland,2021-06,EPPP0,Petrochemical Feedstocks,109,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPPP0,Petrochemical Feedstocks,4639,MPCRX_R3B_1
+refp2,Texas Inland,2021-07,EPPP0,Petrochemical Feedstocks,112,MPCRX_R3A_1
+refp2,Texas Inland,2021-08,EPPP0,Petrochemical Feedstocks,116,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPPP0,Petrochemical Feedstocks,5362,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2021-09,EPPP0,Petrochemical Feedstocks,5569,MPCRX_R3B_1
+refp2,Texas Inland,2021-09,EPPP0,Petrochemical Feedstocks,128,MPCRX_R3A_1
+refp2,Texas Inland,2021-10,EPPP0,Petrochemical Feedstocks,162,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPPP0,Petrochemical Feedstocks,4922,MPCRX_R3B_1
+refp2,Texas Inland,2021-11,EPPP0,Petrochemical Feedstocks,154,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPPP0,Petrochemical Feedstocks,5231,MPCRX_R3B_1
+refp2,Texas Inland,2021-12,EPPP0,Petrochemical Feedstocks,134,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2021-12,EPPP0,Petrochemical Feedstocks,5071,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2022-01,EPPP0,Petrochemical Feedstocks,4037,MPCRX_R3B_1
+refp2,Texas Inland,2022-01,EPPP0,Petrochemical Feedstocks,145,MPCRX_R3A_1
+refp2,Texas Inland,2022-02,EPPP0,Petrochemical Feedstocks,127,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPPP0,Petrochemical Feedstocks,2370,MPCRX_R3B_1
+refp2,Texas Inland,2022-03,EPPP0,Petrochemical Feedstocks,142,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPPP0,Petrochemical Feedstocks,4143,MPCRX_R3B_1
+refp2,Texas Inland,2022-04,EPPP0,Petrochemical Feedstocks,140,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPPP0,Petrochemical Feedstocks,4448,MPCRX_R3B_1
+refp2,Texas Inland,2022-05,EPPP0,Petrochemical Feedstocks,105,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPPP0,Petrochemical Feedstocks,4242,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2022-06,EPPP0,Petrochemical Feedstocks,3199,MPCRX_R3B_1
+refp2,Texas Inland,2022-06,EPPP0,Petrochemical Feedstocks,52,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPPP0,Petrochemical Feedstocks,3926,MPCRX_R3B_1
+refp2,Texas Inland,2022-07,EPPP0,Petrochemical Feedstocks,51,MPCRX_R3A_1
+refp2,Texas Inland,2022-08,EPPP0,Petrochemical Feedstocks,52,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPPP0,Petrochemical Feedstocks,2959,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2022-09,EPPP0,Petrochemical Feedstocks,3290,MPCRX_R3B_1
+refp2,Texas Inland,2022-09,EPPP0,Petrochemical Feedstocks,42,MPCRX_R3A_1
+refp2,Texas Inland,2022-10,EPPP0,Petrochemical Feedstocks,114,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPPP0,Petrochemical Feedstocks,3290,MPCRX_R3B_1
+refp2,Texas Inland,2022-11,EPPP0,Petrochemical Feedstocks,84,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPPP0,Petrochemical Feedstocks,3873,MPCRX_R3B_1
+refp2,Texas Inland,2022-12,EPPP0,Petrochemical Feedstocks,68,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPPP0,Petrochemical Feedstocks,2742,MPCRX_R3B_1
+refp2,Texas Inland,2023-01,EPPP0,Petrochemical Feedstocks,98,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-01,EPPP0,Petrochemical Feedstocks,3618,MPCRX_R3B_1
+refp2,Texas Inland,2023-02,EPPP0,Petrochemical Feedstocks,104,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPPP0,Petrochemical Feedstocks,3209,MPCRX_R3B_1
+refp2,Texas Inland,2023-03,EPPP0,Petrochemical Feedstocks,19,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPPP0,Petrochemical Feedstocks,3831,MPCRX_R3B_1
+refp2,Texas Inland,2023-04,EPPP0,Petrochemical Feedstocks,42,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPPP0,Petrochemical Feedstocks,3589,MPCRX_R3B_1
+refp2,Texas Inland,2023-05,EPPP0,Petrochemical Feedstocks,57,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPPP0,Petrochemical Feedstocks,3304,MPCRX_R3B_1
+refp2,Texas Inland,2023-06,EPPP0,Petrochemical Feedstocks,125,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-06,EPPP0,Petrochemical Feedstocks,2497,MPCRX_R3B_1
+refp2,Texas Inland,2023-07,EPPP0,Petrochemical Feedstocks,125,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPPP0,Petrochemical Feedstocks,2577,MPCRX_R3B_1
+refp2,Texas Inland,2023-08,EPPP0,Petrochemical Feedstocks,141,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPPP0,Petrochemical Feedstocks,2886,MPCRX_R3B_1
+refp2,Texas Inland,2023-09,EPPP0,Petrochemical Feedstocks,113,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-09,EPPP0,Petrochemical Feedstocks,2823,MPCRX_R3B_1
+refp2,Texas Inland,2023-10,EPPP0,Petrochemical Feedstocks,68,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPPP0,Petrochemical Feedstocks,2901,MPCRX_R3B_1
+refp2,Texas Inland,2023-11,EPPP0,Petrochemical Feedstocks,85,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPPP0,Petrochemical Feedstocks,3661,MPCRX_R3B_1
+refp2,Texas Inland,2023-12,EPPP0,Petrochemical Feedstocks,109,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPPP0,Petrochemical Feedstocks,3951,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPPP0,Petrochemical Feedstocks,3991,MPCRX_R3B_1
+refp2,Texas Inland,2024-01,EPPP0,Petrochemical Feedstocks,107,MPCRX_R3A_1
+refp2,Texas Inland,2024-02,EPPP0,Petrochemical Feedstocks,84,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPPP0,Petrochemical Feedstocks,4179,MPCRX_R3B_1
+refp2,Texas Inland,2024-03,EPPP0,Petrochemical Feedstocks,161,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPPP0,Petrochemical Feedstocks,3576,MPCRX_R3B_1
+refp2,Texas Inland,2024-04,EPPP0,Petrochemical Feedstocks,112,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPPP0,Petrochemical Feedstocks,2107,MPCRX_R3B_1
+refp2,Texas Inland,2024-05,EPPP0,Petrochemical Feedstocks,161,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPPP0,Petrochemical Feedstocks,2299,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPPP0,Petrochemical Feedstocks,2496,MPCRX_R3B_1
+refp2,Texas Inland,2024-06,EPPP0,Petrochemical Feedstocks,168,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPPP0,Petrochemical Feedstocks,2940,MPCRX_R3B_1
+refp2,Texas Inland,2024-07,EPPP0,Petrochemical Feedstocks,137,MPCRX_R3A_1
+refp2,Texas Inland,2024-08,EPPP0,Petrochemical Feedstocks,76,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPPP0,Petrochemical Feedstocks,2852,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPPP0,Petrochemical Feedstocks,3235,MPCRX_R3B_1
+refp2,Texas Inland,2024-09,EPPP0,Petrochemical Feedstocks,91,MPCRX_R3A_1
+refp2,Texas Inland,2024-10,EPPP0,Petrochemical Feedstocks,112,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPPP0,Petrochemical Feedstocks,3308,MPCRX_R3B_1
+refp2,Texas Inland,2024-11,EPPP0,Petrochemical Feedstocks,61,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPPP0,Petrochemical Feedstocks,3655,MPCRX_R3B_1
+refp2,Texas Inland,2024-12,EPPP0,Petrochemical Feedstocks,58,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPPP0,Petrochemical Feedstocks,3871,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPPP0,Petrochemical Feedstocks,3344,MPCRX_R3B_1
+refp2,Texas Inland,2025-01,EPPP0,Petrochemical Feedstocks,36,MPCRX_R3A_1
+refp2,Texas Inland,2025-02,EPPP0,Petrochemical Feedstocks,49,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPPP0,Petrochemical Feedstocks,3037,MPCRX_R3B_1
+refp2,Texas Inland,2025-03,EPPP0,Petrochemical Feedstocks,139,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPPP0,Petrochemical Feedstocks,4360,MPCRX_R3B_1
+refp2,Texas Inland,2025-04,EPPP0,Petrochemical Feedstocks,161,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPPP0,Petrochemical Feedstocks,4268,MPCRX_R3B_1
+refp2,Texas Inland,2025-05,EPPP0,Petrochemical Feedstocks,185,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPPP0,Petrochemical Feedstocks,4800,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPPP0,Petrochemical Feedstocks,4509,MPCRX_R3B_1
+refp2,Texas Inland,2025-06,EPPP0,Petrochemical Feedstocks,202,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPPP0,Petrochemical Feedstocks,4857,MPCRX_R3B_1
+refp2,Texas Inland,2025-07,EPPP0,Petrochemical Feedstocks,176,MPCRX_R3A_1
+refp2,Texas Inland,2025-08,EPPP0,Petrochemical Feedstocks,158,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPPP0,Petrochemical Feedstocks,4524,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPPP0,Petrochemical Feedstocks,3808,MPCRX_R3B_1
+refp2,Texas Inland,2025-09,EPPP0,Petrochemical Feedstocks,173,MPCRX_R3A_1
+refp2,Texas Inland,2025-10,EPPP0,Petrochemical Feedstocks,142,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPPP0,Petrochemical Feedstocks,3395,MPCRX_R3B_1
+refp2,Texas Inland,2025-11,EPPP0,Petrochemical Feedstocks,159,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPPP0,Petrochemical Feedstocks,3851,MPCRX_R3B_1
+refp2,Texas Inland,2025-12,EPPP0,Petrochemical Feedstocks,164,MPCRX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPPP0,Petrochemical Feedstocks,4778,MPCRX_R3B_1
+refp2,Texas Gulf Coast,2020-01,EPPV,Aviation Gasoline,59,MGARX_R3B_1
+refp2,Texas Inland,2020-01,EPPV,Aviation Gasoline,59,MGARX_R3A_1
+refp2,Texas Inland,2020-02,EPPV,Aviation Gasoline,57,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-02,EPPV,Aviation Gasoline,67,MGARX_R3B_1
+refp2,Texas Inland,2020-03,EPPV,Aviation Gasoline,71,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-03,EPPV,Aviation Gasoline,109,MGARX_R3B_1
+refp2,Texas Inland,2020-04,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-04,EPPV,Aviation Gasoline,110,MGARX_R3B_1
+refp2,Texas Inland,2020-05,EPPV,Aviation Gasoline,91,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-05,EPPV,Aviation Gasoline,78,MGARX_R3B_1
+refp2,Texas Gulf Coast,2020-06,EPPV,Aviation Gasoline,40,MGARX_R3B_1
+refp2,Texas Inland,2020-06,EPPV,Aviation Gasoline,104,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-07,EPPV,Aviation Gasoline,83,MGARX_R3B_1
+refp2,Texas Inland,2020-07,EPPV,Aviation Gasoline,102,MGARX_R3A_1
+refp2,Texas Inland,2020-08,EPPV,Aviation Gasoline,92,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-08,EPPV,Aviation Gasoline,46,MGARX_R3B_1
+refp2,Texas Gulf Coast,2020-09,EPPV,Aviation Gasoline,114,MGARX_R3B_1
+refp2,Texas Inland,2020-09,EPPV,Aviation Gasoline,105,MGARX_R3A_1
+refp2,Texas Inland,2020-10,EPPV,Aviation Gasoline,119,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-10,EPPV,Aviation Gasoline,82,MGARX_R3B_1
+refp2,Texas Inland,2020-11,EPPV,Aviation Gasoline,89,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-11,EPPV,Aviation Gasoline,66,MGARX_R3B_1
+refp2,Texas Inland,2020-12,EPPV,Aviation Gasoline,97,MGARX_R3A_1
+refp2,Texas Gulf Coast,2020-12,EPPV,Aviation Gasoline,74,MGARX_R3B_1
+refp2,Texas Inland,2021-01,EPPV,Aviation Gasoline,91,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-01,EPPV,Aviation Gasoline,18,MGARX_R3B_1
+refp2,Texas Inland,2021-02,EPPV,Aviation Gasoline,46,MGARX_R3A_1
+refp2,Texas Inland,2021-03,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-03,EPPV,Aviation Gasoline,10,MGARX_R3B_1
+refp2,Texas Inland,2021-04,EPPV,Aviation Gasoline,73,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-04,EPPV,Aviation Gasoline,109,MGARX_R3B_1
+refp2,Texas Inland,2021-05,EPPV,Aviation Gasoline,92,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-05,EPPV,Aviation Gasoline,91,MGARX_R3B_1
+refp2,Texas Gulf Coast,2021-06,EPPV,Aviation Gasoline,68,MGARX_R3B_1
+refp2,Texas Inland,2021-06,EPPV,Aviation Gasoline,95,MGARX_R3A_1
+refp2,Texas Inland,2021-07,EPPV,Aviation Gasoline,107,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-07,EPPV,Aviation Gasoline,2,MGARX_R3B_1
+refp2,Texas Inland,2021-08,EPPV,Aviation Gasoline,95,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-08,EPPV,Aviation Gasoline,121,MGARX_R3B_1
+refp2,Texas Inland,2021-09,EPPV,Aviation Gasoline,101,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-09,EPPV,Aviation Gasoline,123,MGARX_R3B_1
+refp2,Texas Inland,2021-10,EPPV,Aviation Gasoline,124,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-10,EPPV,Aviation Gasoline,122,MGARX_R3B_1
+refp2,Texas Inland,2021-11,EPPV,Aviation Gasoline,57,MGARX_R3A_1
+refp2,Texas Gulf Coast,2021-11,EPPV,Aviation Gasoline,120,MGARX_R3B_1
+refp2,Texas Gulf Coast,2021-12,EPPV,Aviation Gasoline,141,MGARX_R3B_1
+refp2,Texas Inland,2021-12,EPPV,Aviation Gasoline,61,MGARX_R3A_1
+refp2,Texas Inland,2022-01,EPPV,Aviation Gasoline,84,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-01,EPPV,Aviation Gasoline,65,MGARX_R3B_1
+refp2,Texas Inland,2022-02,EPPV,Aviation Gasoline,65,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-02,EPPV,Aviation Gasoline,80,MGARX_R3B_1
+refp2,Texas Inland,2022-03,EPPV,Aviation Gasoline,96,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-03,EPPV,Aviation Gasoline,104,MGARX_R3B_1
+refp2,Texas Inland,2022-04,EPPV,Aviation Gasoline,67,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-04,EPPV,Aviation Gasoline,125,MGARX_R3B_1
+refp2,Texas Inland,2022-05,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-05,EPPV,Aviation Gasoline,123,MGARX_R3B_1
+refp2,Texas Inland,2022-06,EPPV,Aviation Gasoline,66,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-06,EPPV,Aviation Gasoline,56,MGARX_R3B_1
+refp2,Texas Inland,2022-07,EPPV,Aviation Gasoline,99,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-07,EPPV,Aviation Gasoline,99,MGARX_R3B_1
+refp2,Texas Inland,2022-08,EPPV,Aviation Gasoline,82,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-08,EPPV,Aviation Gasoline,124,MGARX_R3B_1
+refp2,Texas Inland,2022-09,EPPV,Aviation Gasoline,88,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-09,EPPV,Aviation Gasoline,100,MGARX_R3B_1
+refp2,Texas Inland,2022-10,EPPV,Aviation Gasoline,117,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-10,EPPV,Aviation Gasoline,78,MGARX_R3B_1
+refp2,Texas Inland,2022-11,EPPV,Aviation Gasoline,74,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-11,EPPV,Aviation Gasoline,135,MGARX_R3B_1
+refp2,Texas Inland,2022-12,EPPV,Aviation Gasoline,76,MGARX_R3A_1
+refp2,Texas Gulf Coast,2022-12,EPPV,Aviation Gasoline,138,MGARX_R3B_1
+refp2,Texas Gulf Coast,2023-01,EPPV,Aviation Gasoline,57,MGARX_R3B_1
+refp2,Texas Inland,2023-01,EPPV,Aviation Gasoline,47,MGARX_R3A_1
+refp2,Texas Inland,2023-02,EPPV,Aviation Gasoline,37,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-02,EPPV,Aviation Gasoline,119,MGARX_R3B_1
+refp2,Texas Inland,2023-03,EPPV,Aviation Gasoline,48,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-03,EPPV,Aviation Gasoline,-4,MGARX_R3B_1
+refp2,Texas Inland,2023-04,EPPV,Aviation Gasoline,56,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-04,EPPV,Aviation Gasoline,139,MGARX_R3B_1
+refp2,Texas Inland,2023-05,EPPV,Aviation Gasoline,42,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-05,EPPV,Aviation Gasoline,113,MGARX_R3B_1
+refp2,Texas Gulf Coast,2023-06,EPPV,Aviation Gasoline,1,MGARX_R3B_1
+refp2,Texas Inland,2023-06,EPPV,Aviation Gasoline,46,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-07,EPPV,Aviation Gasoline,87,MGARX_R3B_1
+refp2,Texas Inland,2023-07,EPPV,Aviation Gasoline,86,MGARX_R3A_1
+refp2,Texas Inland,2023-08,EPPV,Aviation Gasoline,83,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-08,EPPV,Aviation Gasoline,100,MGARX_R3B_1
+refp2,Texas Gulf Coast,2023-09,EPPV,Aviation Gasoline,54,MGARX_R3B_1
+refp2,Texas Inland,2023-09,EPPV,Aviation Gasoline,99,MGARX_R3A_1
+refp2,Texas Inland,2023-10,EPPV,Aviation Gasoline,76,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-10,EPPV,Aviation Gasoline,117,MGARX_R3B_1
+refp2,Texas Inland,2023-11,EPPV,Aviation Gasoline,81,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-11,EPPV,Aviation Gasoline,69,MGARX_R3B_1
+refp2,Texas Inland,2023-12,EPPV,Aviation Gasoline,102,MGARX_R3A_1
+refp2,Texas Gulf Coast,2023-12,EPPV,Aviation Gasoline,136,MGARX_R3B_1
+refp2,Texas Gulf Coast,2024-01,EPPV,Aviation Gasoline,7,MGARX_R3B_1
+refp2,Texas Inland,2024-01,EPPV,Aviation Gasoline,95,MGARX_R3A_1
+refp2,Texas Inland,2024-02,EPPV,Aviation Gasoline,76,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-02,EPPV,Aviation Gasoline,54,MGARX_R3B_1
+refp2,Texas Inland,2024-03,EPPV,Aviation Gasoline,126,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-03,EPPV,Aviation Gasoline,62,MGARX_R3B_1
+refp2,Texas Inland,2024-04,EPPV,Aviation Gasoline,98,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-04,EPPV,Aviation Gasoline,56,MGARX_R3B_1
+refp2,Texas Inland,2024-05,EPPV,Aviation Gasoline,90,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-05,EPPV,Aviation Gasoline,127,MGARX_R3B_1
+refp2,Texas Gulf Coast,2024-06,EPPV,Aviation Gasoline,182,MGARX_R3B_1
+refp2,Texas Inland,2024-06,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-07,EPPV,Aviation Gasoline,125,MGARX_R3B_1
+refp2,Texas Inland,2024-07,EPPV,Aviation Gasoline,119,MGARX_R3A_1
+refp2,Texas Inland,2024-08,EPPV,Aviation Gasoline,107,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-08,EPPV,Aviation Gasoline,164,MGARX_R3B_1
+refp2,Texas Gulf Coast,2024-09,EPPV,Aviation Gasoline,82,MGARX_R3B_1
+refp2,Texas Inland,2024-09,EPPV,Aviation Gasoline,89,MGARX_R3A_1
+refp2,Texas Inland,2024-10,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-10,EPPV,Aviation Gasoline,160,MGARX_R3B_1
+refp2,Texas Inland,2024-11,EPPV,Aviation Gasoline,93,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-11,EPPV,Aviation Gasoline,62,MGARX_R3B_1
+refp2,Texas Inland,2024-12,EPPV,Aviation Gasoline,96,MGARX_R3A_1
+refp2,Texas Gulf Coast,2024-12,EPPV,Aviation Gasoline,131,MGARX_R3B_1
+refp2,Texas Gulf Coast,2025-01,EPPV,Aviation Gasoline,1,MGARX_R3B_1
+refp2,Texas Inland,2025-01,EPPV,Aviation Gasoline,64,MGARX_R3A_1
+refp2,Texas Inland,2025-02,EPPV,Aviation Gasoline,49,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-02,EPPV,Aviation Gasoline,52,MGARX_R3B_1
+refp2,Texas Inland,2025-03,EPPV,Aviation Gasoline,31,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-03,EPPV,Aviation Gasoline,110,MGARX_R3B_1
+refp2,Texas Inland,2025-04,EPPV,Aviation Gasoline,66,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-04,EPPV,Aviation Gasoline,88,MGARX_R3B_1
+refp2,Texas Inland,2025-05,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-05,EPPV,Aviation Gasoline,91,MGARX_R3B_1
+refp2,Texas Gulf Coast,2025-06,EPPV,Aviation Gasoline,141,MGARX_R3B_1
+refp2,Texas Inland,2025-06,EPPV,Aviation Gasoline,84,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-07,EPPV,Aviation Gasoline,135,MGARX_R3B_1
+refp2,Texas Inland,2025-07,EPPV,Aviation Gasoline,80,MGARX_R3A_1
+refp2,Texas Inland,2025-08,EPPV,Aviation Gasoline,93,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-08,EPPV,Aviation Gasoline,195,MGARX_R3B_1
+refp2,Texas Gulf Coast,2025-09,EPPV,Aviation Gasoline,48,MGARX_R3B_1
+refp2,Texas Inland,2025-09,EPPV,Aviation Gasoline,76,MGARX_R3A_1
+refp2,Texas Inland,2025-10,EPPV,Aviation Gasoline,66,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-10,EPPV,Aviation Gasoline,159,MGARX_R3B_1
+refp2,Texas Inland,2025-11,EPPV,Aviation Gasoline,72,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-11,EPPV,Aviation Gasoline,62,MGARX_R3B_1
+refp2,Texas Inland,2025-12,EPPV,Aviation Gasoline,91,MGARX_R3A_1
+refp2,Texas Gulf Coast,2025-12,EPPV,Aviation Gasoline,146,MGARX_R3B_1

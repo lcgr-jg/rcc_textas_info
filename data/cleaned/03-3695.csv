@@ -1,0 +1,745 @@
+Code,Storage Beginning of Month,Receipts,Input,Products Manufactured,Fuel Used,Deliveries,Storage End of Month,id,date,extraction_mode,extraction_tier,balance_diff,balanced,material,,,,
+1,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Butane,,,,
+3,0,0,0,24092,3767,20325,0,Mar-95,31/10/2023,digital,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,191356,0,191356,0,Mar-95,31/10/2023,digital,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,172886,0,172886,0,Mar-95,31/10/2023,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Navy Special,,,,
+18,0,0,0,248433,0,248433,0,Mar-95,31/10/2023,digital,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Lubricants,,,,
+21,0,0,0,256823,0,256823,0,Mar-95,31/10/2023,digital,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,31/10/2023,digital,1,0,TRUE,Miscellaneous,,,,
+24,6500,891218,891218,0,0,0,6500,Mar-95,31/10/2023,digital,1,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Butane,,,,
+3,0,0,0,5578,1667,3911,0,Mar-95,30/11/2023,digital,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,84409,0,84409,0,Mar-95,30/11/2023,digital,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,71754,0,71754,0,Mar-95,30/11/2023,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Navy Special,,,,
+18,0,0,0,92243,0,92243,0,Mar-95,30/11/2023,digital,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Lubricants,,,,
+21,0,0,0,63941,0,63941,0,Mar-95,30/11/2023,digital,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,30/11/2023,digital,1,0,TRUE,Miscellaneous,,,,
+24,6500,317262,317262,0,0,0,6500,Mar-95,30/11/2023,digital,1,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Butane,,,,
+3,0,0,0,17095,5101,11994,0,Mar-95,31/12/2023,digital,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,117777,0,117777,0,Mar-95,31/12/2023,digital,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,117217,0,117217,0,Mar-95,31/12/2023,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Navy Special,,,,
+18,0,0,0,186906,0,186906,0,Mar-95,31/12/2023,digital,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Lubricants,,,,
+21,0,0,0,173183,0,173183,0,Mar-95,31/12/2023,digital,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,31/12/2023,digital,1,0,TRUE,Miscellaneous,,,,
+24,6500,611471,611471,0,0,0,6500,Mar-95,31/12/2023,digital,1,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Butane,,,,
+3,0,0,0,24161,8673,15488,0,Mar-95,30/09/2023,digital,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,229596,0,229596,0,Mar-95,30/09/2023,digital,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,181884,0,181884,0,Mar-95,30/09/2023,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Navy Special,,,,
+18,0,0,0,290647,0,290647,0,Mar-95,30/09/2023,digital,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Lubricants,,,,
+21,0,0,0,289359,0,289359,0,Mar-95,30/09/2023,digital,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,30/09/2023,digital,1,0,TRUE,Miscellaneous,,,,
+24,6500,1009963,1009963,0,0,0,6500,Mar-95,30/09/2023,digital,1,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,1066,325,741,0,Mar-95,31/10/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,7236,0,7236,0,Mar-95,31/10/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,4335,0,4335,0,Mar-95,31/10/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,9876,0,9876,0,Mar-95,31/10/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,8015,0,8015,0,Mar-95,31/10/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/10/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,30528,30528,0,0,0,6500,Mar-95,31/10/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,37564,10078,27486,0,Mar-95,30/11/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,235634,0,235634,0,Mar-95,30/11/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,207899,0,207899,0,Mar-95,30/11/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,350207,0,350207,0,Mar-95,30/11/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,335664,0,335664,0,Mar-95,30/11/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/11/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1166958,1166958,0,0,0,6500,Mar-95,30/11/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,22181,7569,14612,0,Mar-95,31/12/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,198189,0,198189,0,Mar-95,31/12/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,181346,0,181346,0,Mar-95,31/12/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,282040,0,282040,0,Mar-95,31/12/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,265396,0,265396,0,Mar-95,31/12/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/12/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,967968,967968,0,0,0,6500,Mar-95,31/12/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,38816,13140,25676,0,Mar-95,31/01/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,234120,0,234120,0,Mar-95,31/01/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,260329,0,260329,0,Mar-95,31/01/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,414210,0,414210,0,Mar-95,31/01/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,386753,0,386753,0,Mar-95,31/01/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/01/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1332208,1332208,0,0,0,6500,Mar-95,31/01/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,36276,12252,24024,0,Mar-95,29/02/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,254375,0,254375,0,Mar-95,29/02/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,242274,0,242274,0,Mar-95,29/02/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,432578,0,432578,0,Mar-95,29/02/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,384694,0,384694,0,Mar-95,29/02/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,29/02/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1349093,1349093,0,0,0,6500,Mar-95,29/02/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,34962,10523,24439,0,Mar-95,31/03/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,261617,0,261617,0,Mar-95,31/03/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,278172,0,278172,0,Mar-95,31/03/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,421794,0,421794,0,Mar-95,31/03/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,392371,0,392371,0,Mar-95,31/03/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/03/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1382440,1382440,0,0,0,6500,Mar-95,31/03/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,38620,15171,23449,0,Mar-95,30/04/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,263356,0,263356,0,Mar-95,30/04/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,269009,0,269009,0,Mar-95,30/04/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,472102,0,472102,0,Mar-95,30/04/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,439872,0,439872,0,Mar-95,30/04/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/04/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1481032,1481032,0,0,0,6500,Mar-95,30/04/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,28443,12025,16418,0,Mar-95,31/05/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,213922,0,213922,0,Mar-95,31/05/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,192237,0,192237,0,Mar-95,31/05/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,357251,0,357251,0,Mar-95,31/05/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,338383,0,338383,0,Mar-95,31/05/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/05/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1967054,1967054,0,0,0,6500,Mar-95,31/05/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,34213,13248,20965,0,Mar-95,30/06/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,225689,0,225689,0,Mar-95,30/06/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,197325,0,197325,0,Mar-95,30/06/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,401048,0,401048,0,Mar-95,30/06/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,340746,0,340746,0,Mar-95,30/06/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/06/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1201850,1201850,0,0,0,6500,Mar-95,30/06/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,31948,12892,19056,0,Mar-95,31/07/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,241098,0,241098,0,Mar-95,31/07/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,232077,0,232077,0,Mar-95,31/07/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,333600,0,333600,0,Mar-95,31/07/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,340746,0,340746,0,Mar-95,31/07/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/07/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1238882,1238882,0,0,0,6500,Mar-95,31/07/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,21370,8824,12546,0,Mar-95,31/08/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,182923,0,182923,0,Mar-95,31/08/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,173242,0,173242,0,Mar-95,31/08/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,268181,0,268181,0,Mar-95,31/08/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,220351,0,220351,0,Mar-95,31/08/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/08/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,860629,860629,0,0,0,6500,Mar-95,31/08/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/09/2024,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,0,0,0,0,0,6500,Mar-95,30/09/2024,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,40300,17079,23222,0,Mar-95,31/10/2025,digital,1,-1,TRUE,Butane-Propane,,,,-1
+4,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,284453,0,284453,0,Mar-95,31/10/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,263374,0,263374,0,Mar-95,31/10/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,441944,0,441944,0,Mar-95,31/10/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,447859,0,447859,0,Mar-95,31/10/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/10/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1472758,1472758,0,0,0,6500,Mar-95,31/10/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,36226,16329,19897,0,Mar-95,30/11/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,248621,0,248621,0,Mar-95,30/11/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,263435,0,263435,0,Mar-95,30/11/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,452786,0,452786,0,Mar-95,30/11/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,450422,0,450422,0,Mar-95,30/11/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/11/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1451712,1451712,0,0,0,6500,Mar-95,30/11/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,30417,15860,14557,0,Mar-95,31/12/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,242465,0,242465,0,Mar-95,31/12/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,241678,0,241678,0,Mar-95,31/12/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,434125,0,434125,0,Mar-95,31/12/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,419056,0,419056,0,Mar-95,31/12/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/12/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1425765,1425765,0,0,0,6500,Mar-95,31/12/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,32905,12436,20469,0,Mar-95,31/01/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,203801,0,203801,0,Mar-95,31/01/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,217805,0,217805,0,Mar-95,31/01/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,481751,0,481751,0,Mar-95,31/01/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,393193,0,393193,0,Mar-95,31/01/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/01/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1318626,1318626,0,0,0,6500,Mar-95,31/01/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,37782,15899,21883,0,Mar-95,28/02/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,211810,0,211810,0,Mar-95,28/02/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,177332,0,177332,0,Mar-95,28/02/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,461724,0,461724,0,Mar-95,28/02/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,351885,0,351885,0,Mar-95,28/02/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,28/02/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1238392,1238392,0,0,0,6500,Mar-95,28/02/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,38045,14825,23221,0,Mar-95,31/03/2025,digital,1,-1,TRUE,Butane-Propane,,,,-1
+4,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,210051,0,210051,0,Mar-95,31/03/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,204089,0,204089,0,Mar-95,31/03/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,377387,0,377387,0,Mar-95,31/03/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,345191,0,345191,0,Mar-95,31/03/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/03/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1163585,1163585,0,0,0,6500,Mar-95,31/03/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,40923,14180,26743,0,Mar-95,30/04/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,207691,0,207691,0,Mar-95,30/04/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,227322,0,227322,0,Mar-95,30/04/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,449982,0,449982,0,Mar-95,30/04/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,405200,0,405200,0,Mar-95,30/04/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/04/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1331209,1331209,0,0,0,6500,Mar-95,30/04/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,47250,15191,32059,0,Mar-95,31/05/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,173552,0,173552,0,Mar-95,31/05/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,248466,0,248466,0,Mar-95,31/05/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,469262,0,469262,0,Mar-95,31/05/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,416809,0,416809,0,Mar-95,31/05/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/05/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,1395705,1395705,0,0,0,6500,Mar-95,31/05/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,1528,284,1244,0,Mar-95,30/06/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,3329,0,3329,0,Mar-95,30/06/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,6211,0,6211,0,Mar-95,30/06/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,13933,0,13933,0,Mar-95,30/06/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,10198,0,10198,0,Mar-95,30/06/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/06/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,35324,35324,0,0,0,6500,Mar-95,30/06/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/07/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,0,0,0,0,0,6500,Mar-95,31/07/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,31/08/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,0,0,0,0,0,6500,Mar-95,31/08/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Propane,,,,0
+2,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Butane,,,,0
+3,0,0,0,19114,6824,12290,0,Mar-95,30/09/2025,digital,1,0,TRUE,Butane-Propane,,,,0
+4,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Motor Gasoline,,,,0
+5,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Kerosene,,,,0
+6,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Home Heating Oil,,,,0
+7,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Diesel Fuel,,,,0
+8,0,0,0,113403,0,113403,0,Mar-95,30/09/2025,digital,1,0,TRUE,Other Middle Distillates,,,,0
+9,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Aviation Gasoline,,,,0
+10,0,0,0,94187,0,94187,0,Mar-95,30/09/2025,digital,1,0,TRUE,Kerosene-Type Jet Fuel,,,,0
+11,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Naphtha-Type Jet Fuel,,,,0
+12,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,0
+13,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,0
+14,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,0
+15,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,0
+16,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Bunker C,,,,0
+17,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Navy Special,,,,0
+18,0,0,0,243114,0,243114,0,Mar-95,30/09/2025,digital,1,0,TRUE,Other Residual Fuels,,,,0
+19,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Petrochemical Feedstock,,,,0
+20,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Lubricants,,,,0
+21,0,0,0,173658,0,173658,0,Mar-95,30/09/2025,digital,1,0,TRUE,Special Naphthas,,,,0
+22,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Solvent Products,,,,0
+23,0,0,0,0,0,0,0,Mar-95,30/09/2025,digital,1,0,TRUE,Miscellaneous,,,,0
+24,6500,642534,642534,0,0,0,6500,Mar-95,30/09/2025,digital,1,0,TRUE,Crude Oil,,,,0
+1,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Butane,,,,
+3,0,0,0,22551.79,6036,16515.79,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,227601.59,0,227601.59,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,121453.11,0,121453.11,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Navy Special,,,,
+18,0,0,0,243997.9,0,243997.9,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Lubricants,,,,
+21,0,0,0,247528.36,0,247528.36,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Miscellaneous,,,,
+24,6500,864036.77,864036.77,0,0,0,6500,Mar-95,30/06/2023,claude_vision,2,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Butane,,,,
+3,0,0,0,27133,7853,19280,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,369340,0,369340,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,177980,0,177980,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Navy Special,,,,
+18,0,0,0,320874,0,320874,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Lubricants,,,,
+21,0,0,0,337854,0,337854,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Miscellaneous,,,,
+24,6500,1203638,1203638,0,0,0,6500,Mar-95,31/07/2023,claude_vision,1,0,TRUE,Crude Oil,,,,
+1,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Propane,,,,
+2,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Butane,,,,
+3,0,0,0,32274,14809,17465,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Butane-Propane,,,,
+4,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Motor Gasoline,,,,
+5,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Kerosene,,,,
+6,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Home Heating Oil,,,,
+7,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Diesel Fuel,,,,
+8,0,0,0,313324,0,313324,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Other Middle Distillates,,,,
+9,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Aviation Gasoline,,,,
+10,0,0,0,271786,0,271786,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Kerosene-Type Jet Fuel,,,,
+11,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Naphtha-Type Jet Fuel,,,,
+12,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Fuel Oils #4 For Utility Use,,,,
+13,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,"Fuel Oils #5,#6 For Utility Use",,,,
+14,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Fuel Oils #4 For Non-Utility Use,,,,
+15,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,"Fuel Oils #5,#6 For Non-Utility Use",,,,
+16,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Bunker C,,,,
+17,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Navy Special,,,,
+18,0,0,0,409740,0,409740,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Other Residual Fuels,,,,
+19,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Petrochemical Feedstock,,,,
+20,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Lubricants,,,,
+21,0,0,0,337854,0,337854,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Special Naphthas,,,,
+22,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Solvent Products,,,,
+23,0,0,0,0,0,0,0,Mar-95,31/08/2023,claude_vision,1,0,TRUE,Miscellaneous,,,,
+24,6500,1199534,1203638,0,0,0,6500,Mar-95,31/08/2023,claude_vision,1,-4104,FALSE,Crude Oil,,,,

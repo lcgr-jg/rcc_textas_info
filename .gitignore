@@ -1,0 +1,15 @@
+# Raw PDF data - downloadable from source website
+Raw Data/
+
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+file,id,date,mode,tier,error,claude_error,active,balanced,pass_rate,cost,calls,retried_rows
+Raw Data\Texas RRC\10-0013\2025_11___10-0013_PHILLIPS 66.pdf,10-0013,2025-11-30,camelot,1,,,0,0,1.0,0,0,0
+Raw Data\Texas RRC\10-0013\2025_12___10-0013_PHILLIPS 66.pdf,10-0013,2025-12-31,scanned_ocr,3,,,16,0,0.0,0,0,0

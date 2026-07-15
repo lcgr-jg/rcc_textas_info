@@ -1,0 +1,25 @@
+Code,Storage Beginning of Month,Receipts,Input,Products Manufactured,Fuel Used,Deliveries,Storage End of Month,balance_diff,balanced,material,confidence
+1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Propane,ok
+2,495.0,0.0,0.0,23222.0,0.0,23427.0,290.0,0.0,True,Butane,ok
+3,29347.0,17446.0,0.0,155860.0,0.0,172761.0,29892.0,0.0,True,Butane-Propane,ok
+4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Motor Gasoline,ok
+5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Kerosene,ok
+6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Home Heating Oil,ok
+7,39868.0,0.0,0.0,223655.0,0.0,223677.0,39846.0,0.0,True,Diesel Fuel,ok
+8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Other Middle Distillates,ok
+9,8863.0,0.0,0.0,24996.0,0.0,22864.0,10995.0,0.0,True,Aviation Gasoline,ok
+10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Kerosene-Type Jet Fuel,ok
+11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Naphtha-Type Jet Fuel,ok
+12,6676.0,0.0,0.0,188685.0,0.0,192802.0,2559.0,0.0,True,Fuel Oils #4 For Utility Use,ok
+13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,"Fuel Oils #5,#6 For Utility Use",ok
+14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Fuel Oils #4 For Non-Utility Use,ok
+15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,"Fuel Oils #5,#6 For Non-Utility Use",ok
+16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Bunker C,ok
+17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Navy Special,ok
+18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Other Residual Fuels,ok
+19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Petrochemical Feedstock,ok
+20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Lubricants,ok
+21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Special Naphthas,ok
+22,1065.0,0.0,0.0,0.0,6.0,0.0,1059.0,0.0,True,Solvent Products,ok
+23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,Miscellaneous,ok
+24,16987.0,617363.0,618781.0,0.0,0.0,0.0,15569.0,0.0,True,Crude Oil,ok

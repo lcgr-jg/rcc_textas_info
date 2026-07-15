@@ -1,0 +1,32 @@
+﻿id,ownser,plant_name,plant_location,cleaned,last_format,waterborne_map,iir_map,refining district
+01-0692,Calumet San Antonio Refining,The San Antonio Refinery,"1 BDA CROSSING, Brooks City-Base",x,digital,,"US P3 Texas Inland - Allegiance, San Antonio refinery",Texas Inland
+01-0717,Calumet Shreveport Fuels LLC,Calumet San Antonia Refinery,"1 BDA CROSSING, Brooks City-Base",1,out,,"US P3 Texas Inland - Allegiance, San Antonio refinery",Texas Inland
+01-0763,Lazarus Energy Holdings,Nixon Refinery,801 Travis Houston,x,out,,"US P3 Texas Inland - Lazarus, Nixon refinery",Texas Inland
+02-0057,Diamond Shamrock,Three Rivers Refinery,San Antonio,x,out,,"US P3 Texas Inland - Valero, Three Rivers refinery",Texas Inland
+03-0006,Houston Refining,Houston Refining,Houston,x,digital,"US GC TX Houston - LyondellBasell, Houston refinery","US GC TX Houston - LyondellBasell, Houston refinery",Texas Gulf Coast
+03-0008,Pasadena Refining System,Pasadena Refining System,111 Red Bluff Road Houston,x,digital,"US GC TX Houston - Chevron, Pasadena refinery","US GC TX Houston - Chevron, Pasadena refinery",Texas Gulf Coast
+03-0012,Exxon Baytown,Baytown refinery,Baytown,x,scanned,"US GC TX Houston - Exxon, Baytown refinery","US GC TX Houston - Exxon, Baytown refinery",Texas Gulf Coast
+03-0014,Deer Park Refining Limited,Deer Park refinery,Deer Park,x,out,"US GC TX Houston - PEMEX, Deer Park refinery","US GX TX Houston - PEMEX, Deer Park refinery",Texas Gulf Coast
+03-0024,Premcor Refining Group,Premcor Port Arthur Refinery,Port Arthur Texas,x,digital,"US GC TX Port Arthur - Valero, Port Arthur refinery","US GC TX Port Arthur - Valero, Port Arthur refinery",Texas Gulf Coast
+03-0031,Valero Houston Refining,Valero Houston Refinery,Houston Texas,x,out,"US GC TX Houston - Valero, Houston refinery (no waterborne imp)","US GC TX Houston - Valero, Houston refinery (no waterborne imp)",Texas Gulf Coast
+03-0052,Blanchard Refining,Galveston Bay Refinery,Texas City,x,digital,"US GC TX Texas City - Marathon, Galveston Bay refinery","US GC TX Texas City - Marathon, Galveston Bay refinery",Texas Gulf Coast
+03-0078,TotalEnergies,Port Arthur,Port Arthur,x,scanned,"US GC TX Port Arthur - Total, Port Arthur refinery","US GC TX Port Arthur - Total, Port Arthur refinery",Texas Gulf Coast
+03-0138,Exxon,Beaumont Refinery,Beuamont,x,scanned,"US GC TX Port Arthur - Exxon, Beaumont refinery","US GC TX Port Arthur - Exxon, Beaumont refinery",Texas Gulf Coast
+03-0182,Valero Texas City Refinery,Valero Texas City Refinery,Texas City,x,digital,"US GC TX Texas City - Valero, Texas City refinery","US GC TX Texas City - Valero, Texas City refinery",Texas Gulf Coast
+03-0203,Motiva,port arthur refinery,Port Arthur,x,digital,"US GC TX Port Arthur - Motiva, Port Arthur refinery","US GC TX Port Arthur - Motiva, Port Arthur refinery",Texas Gulf Coast
+03-0228,P66,Sweeny refinery,Bartlesville,x,digital,"US GC TX Freeport - P66, Sweeny refinery","US GC TX Freeport - P66, Sweeny refinery",Texas Gulf Coast
+03-0253,Marathon,Texas City,Texas City,1,out,,"US GC TX Texas City - Marathon, Texas City refinery",Texas Gulf Coast
+03-1358,Kinder Morgan crude & cond,Galena Park Splitter,Houston,x,digital,,"US P3 Texas Inland - Kinder Morgan, Galena Park condensate splitter",Texas Gulf Coast
+03-1375,Hartree Channelview,Hartree Channelview,Channelview,x,digital,,"US GC TX Houston - Hartree, Channelview condensate splitter",Texas Gulf Coast
+Mar-95,Texas International Refining,Texas International Refinery,Galveston,x,out,,"US GC TX Texas City - TTI, Galveston refinery",Texas Gulf Coast
+04-0161,CITGO,Corpus Christi refinery,Corpus Christi,x,digital,"US GC TX Corpus - CITGO, Corpus Christi refinery","US GC TX Corpus - CITGO, Corpus Christi refinery",Texas Gulf Coast
+04-1365,Valero,Valero Bill Greehey refinery East,Corpus Christi,x,scanned,"US GC TX Corpus - Valero, Bill Greehey refinery","US GC TX Corpus - Valero, Bill Greehey refinery",Texas Gulf Coast
+Apr-50,Valero,Valero Bill Greehey refinery West,Corpus Christi,x,scanned,"US GC TX Corpus - Valero, Bill Greehey refinery","US GC TX Corpus - Valero, Bill Greehey refinery",Texas Gulf Coast
+Apr-22,POTAK,Pin Oak Corpus,Corpus Christi,1,out,US GC TX Corpus - Magellan Corpus condensate splitter,US GC TX Corpus - Magellan Corpus condensate splitter,Texas Gulf Coast
+Apr-18,Flint Hills Resources,Corpus Christi,Corpus Christi,x,digital,"US GC TX Corpus - Flint Hills, Corpus Christi refinery","US GC TX Corpus - Flint Hills, Corpus Christi refinery",Texas Gulf Coast
+Apr-69,Buckeye Texas Processing,Buckeye Texas Processing,Corpus Christi,x,out,,US GC TX Corpus - Buckeye Texas Processing,Texas Gulf Coast
+06-0111,Delek Refining,Tyler Refinery,Tyler,x,digital,,"US P3 Texas Inland - Delek, Tyler refinery",Texas Inland
+08-0005,Western Refining,El Paso Refinery,El Paso,x,scanned,,"US P3 Texas Inland - Marathon, El Paso refinery",Texas Inland
+Aug-69,Alon USA,Big Spring,Dallas,x,digital,,"US P3 Texas Inland - Delek, Big Spring refinery",Texas Inland
+10-0013,P66,Borger refinery,Borger,x,digital,,"US P3 Texas Inland - P66, Borger refinery",Texas Inland
+10-0026,Diamond Shamrck,McKee refinery,San Antonio,x,scanned,,"US P3 Texas Inland - Valero, McKee refinery",Texas Inland
